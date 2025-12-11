@@ -1,0 +1,150 @@
+[
+  {
+    "type": "word_attempt",
+    "timestamp": 2.4678127765655518,
+    "data": {
+      "word": "browser",
+      "typed": "s",
+      "correct": false,
+      "time_taken": 1.9391400814056396,
+      "wrong_letters": [],
+      "word_difficulty": 4,
+      "game_difficulty": 1
+    }
+  },
+  {
+    "type": "failed_hit",
+    "timestamp": 2.467841625213623,
+    "data": {
+      "damage_taken": 13.2,
+      "word_difficulty": 2,
+      "game_difficulty": 1,
+      "ml_prediction": 0.5,
+      "ml_optimal_difficulty": 5
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 2.902183771133423,
+    "data": {
+      "word": "year",
+      "typed": "s",
+      "correct": false,
+      "time_taken": 0.43404221534729004,
+      "wrong_letters": [],
+      "word_difficulty": 2,
+      "game_difficulty": 1
+    }
+  },
+  {
+    "type": "failed_hit",
+    "timestamp": 2.902204751968384,
+    "data": {
+      "damage_taken": 12.2,
+      "word_difficulty": 1,
+      "game_difficulty": 1,
+      "ml_prediction": 0.5,
+      "ml_optimal_difficulty": 5
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 3.294484853744507,
+    "data": {
+      "word": "bard",
+      "typed": "s",
+      "correct": false,
+      "time_taken": 0.39197707176208496,
+      "wrong_letters": [],
+      "word_difficulty": 2,
+      "game_difficulty": 1
+    }
+  },
+  {
+    "type": "failed_hit",
+    "timestamp": 3.294503927230835,
+    "data": {
+      "damage_taken": 12.2,
+      "word_difficulty": 1,
+      "game_difficulty": 1,
+      "ml_prediction": 0.5,
+      "ml_optimal_difficulty": 5
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 3.6816368103027344,
+    "data": {
+      "word": "ethernet",
+      "typed": "s",
+      "correct": false,
+      "time_taken": 0.38690185546875,
+      "wrong_letters": [],
+      "word_difficulty": 4,
+      "game_difficulty": 1
+    }
+  },
+  {
+    "type": "failed_hit",
+    "timestamp": 3.6821975708007812,
+    "data": {
+      "damage_taken": 13.2,
+      "word_difficulty": 2,
+      "game_difficulty": 1,
+      "ml_prediction": 0.39071656664080057,
+      "ml_optimal_difficulty": 4
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 3.682243824005127,
+    "data": {
+      "word": "SEE",
+      "difficulty": 1,
+      "word_difficulty": 5,
+      "counter_time": 4.65
+    }
+  },
+  {
+    "type": "counter_failure",
+    "timestamp": 4.343369960784912,
+    "data": {
+      "word": "SEE",
+      "difficulty": 1,
+      "damage_taken": 21.5
+    }
+  },
+  {
+    "type": "counter_failure",
+    "timestamp": 4.893193960189819,
+    "data": {
+      "word": "SEE",
+      "difficulty": 1,
+      "damage_taken": 21.5
+    }
+  },
+  {
+    "type": "counter_failure",
+    "timestamp": 5.529322862625122,
+    "data": {
+      "word": "SEE",
+      "difficulty": 1,
+      "damage_taken": 21.5
+    }
+  },
+  {
+    "type": "game_over",
+    "timestamp": 5.5293638706207275,
+    "data": {
+      "final_difficulty": 1,
+      "total_words": 0,
+      "final_wpm": 0,
+      "final_accuracy": 0,
+      "play_time": 5.000933885574341,
+      "enemy_kills": 0,
+      "live_ml_accuracy": 1.0,
+      "ml_predictions_made": 1,
+      "ml_correct_predictions": 1
+    }
+  }
+]

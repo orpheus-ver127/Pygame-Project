@@ -1,0 +1,106 @@
+[
+  {
+    "type": "word_attempt",
+    "timestamp": 6.404549837112427,
+    "data": {
+      "word": "binary",
+      "typed": "binary",
+      "correct": true,
+      "time_taken": 5.778007745742798,
+      "wrong_letters": [],
+      "word_difficulty": 3,
+      "game_difficulty": 1
+    }
+  },
+  {
+    "type": "successful_hit",
+    "timestamp": 6.4045729637146,
+    "data": {
+      "damage": 19.5,
+      "word_difficulty": 3,
+      "game_difficulty": 1,
+      "ml_prediction": 0.5,
+      "ml_optimal_difficulty": 5
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 10.338037014007568,
+    "data": {
+      "word": "binary",
+      "typed": "as",
+      "correct": false,
+      "time_taken": 3.932861804962158,
+      "wrong_letters": [],
+      "word_difficulty": 3,
+      "game_difficulty": 1
+    }
+  },
+  {
+    "type": "failed_hit",
+    "timestamp": 10.338072776794434,
+    "data": {
+      "damage_taken": 12.2,
+      "word_difficulty": 1,
+      "game_difficulty": 1,
+      "ml_prediction": 0.5,
+      "ml_optimal_difficulty": 5
+    }
+  },
+  {
+    "type": "difficulty_update",
+    "timestamp": 10.639227867126465,
+    "data": {
+      "difficulty": 4.446881414254507,
+      "wpm": 7,
+      "accuracy": 75,
+      "time_played": 10.012884855270386,
+      "enemy_kills": 0
+    }
+  },
+  {
+    "type": "difficulty_update",
+    "timestamp": 20.644016981124878,
+    "data": {
+      "difficulty": 4.453628197511036,
+      "wpm": 3,
+      "accuracy": 75,
+      "time_played": 20.01769185066223,
+      "enemy_kills": 0
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 21.624652862548828,
+    "data": {
+      "word": "there",
+      "typed": "",
+      "correct": false,
+      "time_taken": 11.286255121231079,
+      "wrong_letters": [],
+      "word_difficulty": 3,
+      "game_difficulty": 4.453628197511036
+    }
+  },
+  {
+    "type": "failed_hit",
+    "timestamp": 21.62467885017395,
+    "data": {
+      "damage_taken": 16.344353837013244,
+      "word_difficulty": 1,
+      "game_difficulty": 4.453628197511036,
+      "ml_prediction": 0.5,
+      "ml_optimal_difficulty": 5
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 21.62478280067444,
+    "data": {
+      "word": "mONiTor",
+      "difficulty": 4.453628197511036,
+      "word_difficulty": 5,
+      "counter_time": 3.4412301308711375
+    }
+  }
+]

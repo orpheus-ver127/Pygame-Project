@@ -1,0 +1,86 @@
+[
+  {
+    "type": "word_attempt",
+    "timestamp": 9.376577138900757,
+    "data": {
+      "word": "organization",
+      "typed": "Organization",
+      "correct": false,
+      "time_taken": 8.937398672103882,
+      "word_difficulty": 6
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 11.516735076904297,
+    "data": {
+      "word": "comprehensive",
+      "typed": "C",
+      "correct": false,
+      "time_taken": 2.1398420333862305,
+      "word_difficulty": 7
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 12.228484153747559,
+    "data": {
+      "word": "characteristic",
+      "typed": "C",
+      "correct": false,
+      "time_taken": 0.7114460468292236,
+      "word_difficulty": 6
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 12.228538990020752,
+    "data": {
+      "word": "manufacturing",
+      "difficulty": 6,
+      "counter_time": 3.8
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 16.0012788772583,
+    "data": {
+      "word": "Muffliato",
+      "typed": "C",
+      "correct": false,
+      "time_taken": 0.6788270473480225,
+      "word_difficulty": 6
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 16.54516100883484,
+    "data": {
+      "word": "adventure",
+      "typed": "C",
+      "correct": false,
+      "time_taken": 0.5435247421264648,
+      "word_difficulty": 6
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 16.98503303527832,
+    "data": {
+      "word": "encryption",
+      "typed": "C",
+      "correct": false,
+      "time_taken": 0.4395740032196045,
+      "word_difficulty": 5
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 16.985106945037842,
+    "data": {
+      "word": "vocabulary",
+      "difficulty": 6,
+      "counter_time": 3.8
+    }
+  }
+]

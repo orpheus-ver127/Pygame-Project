@@ -1,0 +1,111 @@
+[
+  {
+    "type": "word_attempt",
+    "timestamp": 2.3050498962402344,
+    "data": {
+      "word": "WELL",
+      "typed": "s",
+      "correct": false,
+      "time_taken": 1.7697358131408691,
+      "wrong_letters": [],
+      "word_difficulty": 5,
+      "game_difficulty": 1
+    }
+  },
+  {
+    "type": "failed_hit",
+    "timestamp": 2.305094003677368,
+    "data": {
+      "damage_taken": 13.2,
+      "word_difficulty": 2,
+      "game_difficulty": 1,
+      "ml_prediction": 0.5,
+      "ml_optimal_difficulty": 5
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 2.871446132659912,
+    "data": {
+      "word": "good",
+      "typed": "s",
+      "correct": false,
+      "time_taken": 0.5659949779510498,
+      "wrong_letters": [],
+      "word_difficulty": 3,
+      "game_difficulty": 1
+    }
+  },
+  {
+    "type": "failed_hit",
+    "timestamp": 2.8714818954467773,
+    "data": {
+      "damage_taken": 12.2,
+      "word_difficulty": 1,
+      "game_difficulty": 1,
+      "ml_prediction": 0.5,
+      "ml_optimal_difficulty": 5
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 2.871569871902466,
+    "data": {
+      "word": "FAST",
+      "difficulty": 1,
+      "word_difficulty": 5,
+      "counter_time": 4.65
+    }
+  },
+  {
+    "type": "counter_failure",
+    "timestamp": 3.3909378051757812,
+    "data": {
+      "word": "FAST",
+      "difficulty": 1,
+      "damage_taken": 21.5
+    }
+  },
+  {
+    "type": "counter_failure",
+    "timestamp": 3.9377920627593994,
+    "data": {
+      "word": "FAST",
+      "difficulty": 1,
+      "damage_taken": 21.5
+    }
+  },
+  {
+    "type": "counter_failure",
+    "timestamp": 4.394073963165283,
+    "data": {
+      "word": "FAST",
+      "difficulty": 1,
+      "damage_taken": 21.5
+    }
+  },
+  {
+    "type": "counter_failure",
+    "timestamp": 4.794614791870117,
+    "data": {
+      "word": "FAST",
+      "difficulty": 1,
+      "damage_taken": 21.5
+    }
+  },
+  {
+    "type": "game_over",
+    "timestamp": 4.794643878936768,
+    "data": {
+      "final_difficulty": 1,
+      "total_words": 0,
+      "final_wpm": 0,
+      "final_accuracy": 0,
+      "play_time": 4.25968599319458,
+      "enemy_kills": 0,
+      "live_ml_accuracy": 0,
+      "ml_predictions_made": 0,
+      "ml_correct_predictions": 0
+    }
+  }
+]

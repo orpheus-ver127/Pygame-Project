@@ -1,0 +1,1130 @@
+[
+  {
+    "type": "word_attempt",
+    "timestamp": 7.636420011520386,
+    "data": {
+      "word": "us",
+      "typed": "us",
+      "correct": true,
+      "time_taken": 7.155999183654785,
+      "wrong_letters": [],
+      "word_difficulty": 1,
+      "game_difficulty": 1
+    }
+  },
+  {
+    "type": "successful_hit",
+    "timestamp": 7.636444091796875,
+    "data": {
+      "damage": 17.5,
+      "word_difficulty": 1,
+      "game_difficulty": 1,
+      "ml_prediction": 0.5,
+      "ml_optimal_difficulty": 5
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 9.544650793075562,
+    "data": {
+      "word": "go",
+      "typed": "go",
+      "correct": true,
+      "time_taken": 1.9078919887542725,
+      "wrong_letters": [],
+      "word_difficulty": 1,
+      "game_difficulty": 1
+    }
+  },
+  {
+    "type": "successful_hit",
+    "timestamp": 9.544673919677734,
+    "data": {
+      "damage": 17.5,
+      "word_difficulty": 1,
+      "game_difficulty": 1,
+      "ml_prediction": 0.5,
+      "ml_optimal_difficulty": 5
+    }
+  },
+  {
+    "type": "difficulty_update",
+    "timestamp": 10.491205930709839,
+    "data": {
+      "difficulty": 5.326848301887512,
+      "wpm": 4,
+      "accuracy": 100,
+      "time_played": 10.010898113250732,
+      "enemy_kills": 0
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 10.794801950454712,
+    "data": {
+      "word": "a",
+      "typed": "a",
+      "correct": true,
+      "time_taken": 1.2498040199279785,
+      "wrong_letters": [],
+      "word_difficulty": 2,
+      "game_difficulty": 5.326848301887512
+    }
+  },
+  {
+    "type": "successful_hit",
+    "timestamp": 10.7948157787323,
+    "data": {
+      "damage": 24.99027245283127,
+      "word_difficulty": 2,
+      "game_difficulty": 5.326848301887512,
+      "ml_prediction": 0.5,
+      "ml_optimal_difficulty": 5
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 10.79486894607544,
+    "data": {
+      "word": "Episkey",
+      "difficulty": 5.326848301887512,
+      "word_difficulty": 5,
+      "counter_time": 3.1356030943393707
+    }
+  },
+  {
+    "type": "counter_success",
+    "timestamp": 14.240854978561401,
+    "data": {
+      "word": "Episkey",
+      "difficulty": 5.326848301887512,
+      "damage_dealt": 35.653696603775025
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 18.750226736068726,
+    "data": {
+      "word": "Expulso",
+      "typed": "Expulso",
+      "correct": true,
+      "time_taken": 3.4928958415985107,
+      "wrong_letters": [],
+      "word_difficulty": 5,
+      "game_difficulty": 5.326848301887512
+    }
+  },
+  {
+    "type": "enemy_defeated",
+    "timestamp": 18.751036167144775,
+    "data": {
+      "kill_count": 1,
+      "difficulty": 5.326848301887512
+    }
+  },
+  {
+    "type": "successful_hit",
+    "timestamp": 18.75103998184204,
+    "data": {
+      "damage": 27.99027245283127,
+      "word_difficulty": 5,
+      "game_difficulty": 5.326848301887512,
+      "ml_prediction": 0.8585175355161739,
+      "ml_optimal_difficulty": 8
+    }
+  },
+  {
+    "type": "difficulty_update",
+    "timestamp": 20.49673318862915,
+    "data": {
+      "difficulty": 8.028079725980758,
+      "wpm": 11,
+      "accuracy": 158,
+      "time_played": 20.015945196151733,
+      "enemy_kills": 1
+    }
+  },
+  {
+    "type": "enemy_resurrected",
+    "timestamp": 21.787128925323486,
+    "data": {
+      "kill_count": 1,
+      "new_difficulty": 8.528079725980758
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 22.976037979125977,
+    "data": {
+      "word": "VIrtuAl",
+      "typed": "VIrtuAl",
+      "correct": true,
+      "time_taken": 4.2246928215026855,
+      "wrong_letters": [],
+      "word_difficulty": 5,
+      "game_difficulty": 8.528079725980758
+    }
+  },
+  {
+    "type": "successful_hit",
+    "timestamp": 22.976789951324463,
+    "data": {
+      "damage": 32.79211958897113,
+      "word_difficulty": 5,
+      "game_difficulty": 8.528079725980758,
+      "ml_prediction": 0.873626912050109,
+      "ml_optimal_difficulty": 8
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 22.97687602043152,
+    "data": {
+      "word": "he",
+      "difficulty": 8.528079725980758,
+      "word_difficulty": 1,
+      "counter_time": 2.8151720959067346
+    }
+  },
+  {
+    "type": "counter_success",
+    "timestamp": 24.260677099227905,
+    "data": {
+      "word": "he",
+      "difficulty": 8.528079725980758,
+      "damage_dealt": 42.05615945196152
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 26.674253940582275,
+    "data": {
+      "word": "for",
+      "typed": "For",
+      "correct": false,
+      "time_taken": 1.3939647674560547,
+      "wrong_letters": [],
+      "word_difficulty": 1,
+      "game_difficulty": 8.528079725980758
+    }
+  },
+  {
+    "type": "failed_hit",
+    "timestamp": 26.675004720687866,
+    "data": {
+      "damage_taken": 20.23369567117691,
+      "word_difficulty": 0,
+      "game_difficulty": 8.528079725980758,
+      "ml_prediction": 0.9198692296988719,
+      "ml_optimal_difficulty": 9
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 27.89590096473694,
+    "data": {
+      "word": "or",
+      "typed": "or",
+      "correct": true,
+      "time_taken": 1.2206220626831055,
+      "wrong_letters": [],
+      "word_difficulty": 1,
+      "game_difficulty": 8.828079725980759
+    }
+  },
+  {
+    "type": "enemy_defeated",
+    "timestamp": 27.896687030792236,
+    "data": {
+      "kill_count": 2,
+      "difficulty": 8.828079725980759
+    }
+  },
+  {
+    "type": "successful_hit",
+    "timestamp": 27.896690845489502,
+    "data": {
+      "damage": 29.24211958897114,
+      "word_difficulty": 1,
+      "game_difficulty": 8.828079725980759,
+      "ml_prediction": 0.7662680892003982,
+      "ml_optimal_difficulty": 7
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 29.46965003013611,
+    "data": {
+      "word": "ah",
+      "typed": "ah",
+      "correct": true,
+      "time_taken": 1.5727250576019287,
+      "wrong_letters": [],
+      "word_difficulty": 1,
+      "game_difficulty": 8.828079725980759
+    }
+  },
+  {
+    "type": "successful_hit",
+    "timestamp": 29.470180988311768,
+    "data": {
+      "damage": 29.24211958897114,
+      "word_difficulty": 1,
+      "game_difficulty": 8.828079725980759,
+      "ml_prediction": 0.8136161844883426,
+      "ml_optimal_difficulty": 8
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 30.48649787902832,
+    "data": {
+      "word": "sky",
+      "typed": "sky",
+      "correct": true,
+      "time_taken": 1.0159978866577148,
+      "wrong_letters": [],
+      "word_difficulty": 3,
+      "game_difficulty": 8.828079725980759
+    }
+  },
+  {
+    "type": "successful_hit",
+    "timestamp": 30.487239837646484,
+    "data": {
+      "damage": 31.24211958897114,
+      "word_difficulty": 3,
+      "game_difficulty": 8.828079725980759,
+      "ml_prediction": 0.7583279119693703,
+      "ml_optimal_difficulty": 7
+    }
+  },
+  {
+    "type": "difficulty_update",
+    "timestamp": 30.502779006958008,
+    "data": {
+      "difficulty": 6.946110335350036,
+      "wpm": 13,
+      "accuracy": 120,
+      "time_played": 30.022067070007324,
+      "enemy_kills": 2
+    }
+  },
+  {
+    "type": "enemy_resurrected",
+    "timestamp": 30.92547607421875,
+    "data": {
+      "kill_count": 2,
+      "new_difficulty": 7.446110335350036
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 31.81196403503418,
+    "data": {
+      "word": "java",
+      "typed": "java",
+      "correct": true,
+      "time_taken": 1.3244001865386963,
+      "wrong_letters": [],
+      "word_difficulty": 4,
+      "game_difficulty": 7.446110335350036
+    }
+  },
+  {
+    "type": "successful_hit",
+    "timestamp": 31.812713861465454,
+    "data": {
+      "damage": 30.169165503025056,
+      "word_difficulty": 4,
+      "game_difficulty": 7.446110335350036,
+      "ml_prediction": 0.8891480371984806,
+      "ml_optimal_difficulty": 9
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 31.812782049179077,
+    "data": {
+      "word": "rich",
+      "difficulty": 7.446110335350036,
+      "word_difficulty": 1,
+      "counter_time": 3.193861382627488
+    }
+  },
+  {
+    "type": "counter_success",
+    "timestamp": 33.576805114746094,
+    "data": {
+      "word": "rich",
+      "difficulty": 7.446110335350036,
+      "damage_dealt": 39.89222067070007
+    }
+  },
+  {
+    "type": "difficulty_update",
+    "timestamp": 40.5041708946228,
+    "data": {
+      "difficulty": 8.504116901397705,
+      "wpm": 12,
+      "accuracy": 130,
+      "time_played": 40.023380279541016,
+      "enemy_kills": 2
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 41.49120593070984,
+    "data": {
+      "word": "Wingardium Leviosa",
+      "typed": "Wingardium Leviosa",
+      "correct": true,
+      "time_taken": 6.893146991729736,
+      "wrong_letters": [],
+      "word_difficulty": 9,
+      "game_difficulty": 8.504116901397705
+    }
+  },
+  {
+    "type": "enemy_defeated",
+    "timestamp": 41.49195694923401,
+    "data": {
+      "kill_count": 3,
+      "difficulty": 8.504116901397705
+    }
+  },
+  {
+    "type": "successful_hit",
+    "timestamp": 41.49196004867554,
+    "data": {
+      "damage": 36.756175352096555,
+      "word_difficulty": 9,
+      "game_difficulty": 8.504116901397705,
+      "ml_prediction": 0.7762123401016037,
+      "ml_optimal_difficulty": 7
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 42.71651911735535,
+    "data": {
+      "word": "or",
+      "typed": "or",
+      "correct": true,
+      "time_taken": 1.224114179611206,
+      "wrong_letters": [],
+      "word_difficulty": 1,
+      "game_difficulty": 8.504116901397705
+    }
+  },
+  {
+    "type": "successful_hit",
+    "timestamp": 42.71726989746094,
+    "data": {
+      "damage": 28.756175352096555,
+      "word_difficulty": 1,
+      "game_difficulty": 8.504116901397705,
+      "ml_prediction": 0.9370586605487395,
+      "ml_optimal_difficulty": 9
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 43.409080028533936,
+    "data": {
+      "word": "so",
+      "typed": "so",
+      "correct": true,
+      "time_taken": 0.6914973258972168,
+      "wrong_letters": [],
+      "word_difficulty": 1,
+      "game_difficulty": 8.504116901397705
+    }
+  },
+  {
+    "type": "successful_hit",
+    "timestamp": 43.41005897521973,
+    "data": {
+      "damage": 28.756175352096555,
+      "word_difficulty": 1,
+      "game_difficulty": 8.504116901397705,
+      "ml_prediction": 0.8913429962534096,
+      "ml_optimal_difficulty": 9
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 44.36383509635925,
+    "data": {
+      "word": "elf",
+      "typed": "elf",
+      "correct": true,
+      "time_taken": 0.9534499645233154,
+      "wrong_letters": [],
+      "word_difficulty": 1,
+      "game_difficulty": 8.504116901397705
+    }
+  },
+  {
+    "type": "successful_hit",
+    "timestamp": 44.36458492279053,
+    "data": {
+      "damage": 28.756175352096555,
+      "word_difficulty": 1,
+      "game_difficulty": 8.504116901397705,
+      "ml_prediction": 0.8966268519620638,
+      "ml_optimal_difficulty": 9
+    }
+  },
+  {
+    "type": "enemy_resurrected",
+    "timestamp": 44.53509283065796,
+    "data": {
+      "kill_count": 3,
+      "new_difficulty": 9.004116901397705
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 45.63628101348877,
+    "data": {
+      "word": "moon",
+      "typed": "moon",
+      "correct": true,
+      "time_taken": 1.2713608741760254,
+      "wrong_letters": [],
+      "word_difficulty": 3,
+      "game_difficulty": 9.004116901397705
+    }
+  },
+  {
+    "type": "successful_hit",
+    "timestamp": 45.63702893257141,
+    "data": {
+      "damage": 31.506175352096555,
+      "word_difficulty": 3,
+      "game_difficulty": 9.004116901397705,
+      "ml_prediction": 0.8629379682116243,
+      "ml_optimal_difficulty": 8
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 45.637120962142944,
+    "data": {
+      "word": "fIdElIuS cHaRm",
+      "difficulty": 9.004116901397705,
+      "word_difficulty": 5,
+      "counter_time": 1.8485590845108035
+    }
+  },
+  {
+    "type": "difficulty_update",
+    "timestamp": 50.51052474975586,
+    "data": {
+      "difficulty": 7.746148670673369,
+      "wpm": 17,
+      "accuracy": 116,
+      "time_played": 50.02973413467407,
+      "enemy_kills": 3
+    }
+  },
+  {
+    "type": "counter_success",
+    "timestamp": 54.385488986968994,
+    "data": {
+      "word": "fIdElIuS cHaRm",
+      "difficulty": 7.746148670673369,
+      "damage_dealt": 40.49229734134674
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 56.78106379508972,
+    "data": {
+      "word": "wifi",
+      "typed": "wifi",
+      "correct": true,
+      "time_taken": 1.375209093093872,
+      "wrong_letters": [],
+      "word_difficulty": 1,
+      "game_difficulty": 7.746148670673369
+    }
+  },
+  {
+    "type": "successful_hit",
+    "timestamp": 56.7818169593811,
+    "data": {
+      "damage": 27.619223006010053,
+      "word_difficulty": 1,
+      "game_difficulty": 7.746148670673369,
+      "ml_prediction": 0.9134799126301169,
+      "ml_optimal_difficulty": 9
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 57.75470209121704,
+    "data": {
+      "word": "get",
+      "typed": "get",
+      "correct": true,
+      "time_taken": 0.9725658893585205,
+      "wrong_letters": [],
+      "word_difficulty": 2,
+      "game_difficulty": 8.04614867067337
+    }
+  },
+  {
+    "type": "enemy_defeated",
+    "timestamp": 57.75545382499695,
+    "data": {
+      "kill_count": 4,
+      "difficulty": 8.04614867067337
+    }
+  },
+  {
+    "type": "successful_hit",
+    "timestamp": 57.75545787811279,
+    "data": {
+      "damage": 29.069223006010056,
+      "word_difficulty": 2,
+      "game_difficulty": 8.04614867067337,
+      "ml_prediction": 0.8686196958102634,
+      "ml_optimal_difficulty": 8
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 59.09640598297119,
+    "data": {
+      "word": "bard",
+      "typed": "bard",
+      "correct": true,
+      "time_taken": 1.3406028747558594,
+      "wrong_letters": [],
+      "word_difficulty": 2,
+      "game_difficulty": 8.04614867067337
+    }
+  },
+  {
+    "type": "successful_hit",
+    "timestamp": 59.09715986251831,
+    "data": {
+      "damage": 29.069223006010056,
+      "word_difficulty": 2,
+      "game_difficulty": 8.04614867067337,
+      "ml_prediction": 0.8903420702181739,
+      "ml_optimal_difficulty": 9
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 60.466578006744385,
+    "data": {
+      "word": "roof",
+      "typed": "roof",
+      "correct": true,
+      "time_taken": 1.3690779209136963,
+      "wrong_letters": [],
+      "word_difficulty": 3,
+      "game_difficulty": 8.04614867067337
+    }
+  },
+  {
+    "type": "successful_hit",
+    "timestamp": 60.46734094619751,
+    "data": {
+      "damage": 30.069223006010056,
+      "word_difficulty": 3,
+      "game_difficulty": 8.04614867067337,
+      "ml_prediction": 0.8714785437279844,
+      "ml_optimal_difficulty": 8
+    }
+  },
+  {
+    "type": "difficulty_update",
+    "timestamp": 60.51578092575073,
+    "data": {
+      "difficulty": 8.01217485499382,
+      "wpm": 20,
+      "accuracy": 131,
+      "time_played": 60.03497099876404,
+      "enemy_kills": 4
+    }
+  },
+  {
+    "type": "enemy_resurrected",
+    "timestamp": 60.78529191017151,
+    "data": {
+      "kill_count": 4,
+      "new_difficulty": 8.51217485499382
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 61.49403476715088,
+    "data": {
+      "word": "way",
+      "typed": "way",
+      "correct": true,
+      "time_taken": 1.026439905166626,
+      "wrong_letters": [],
+      "word_difficulty": 2,
+      "game_difficulty": 8.51217485499382
+    }
+  },
+  {
+    "type": "successful_hit",
+    "timestamp": 61.494558811187744,
+    "data": {
+      "damage": 29.76826228249073,
+      "word_difficulty": 2,
+      "game_difficulty": 8.51217485499382,
+      "ml_prediction": 0.9031860658009369,
+      "ml_optimal_difficulty": 9
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 61.49461388587952,
+    "data": {
+      "word": "cOmMuNiCaTiOn",
+      "difficulty": 8.51217485499382,
+      "word_difficulty": 5,
+      "counter_time": 2.0207388007521634
+    }
+  },
+  {
+    "type": "counter_success",
+    "timestamp": 69.57077383995056,
+    "data": {
+      "word": "cOmMuNiCaTiOn",
+      "difficulty": 8.51217485499382,
+      "damage_dealt": 42.02434970998764
+    }
+  },
+  {
+    "type": "difficulty_update",
+    "timestamp": 70.52093887329102,
+    "data": {
+      "difficulty": 8.942200791358948,
+      "wpm": 20,
+      "accuracy": 146,
+      "time_played": 70.04015827178955,
+      "enemy_kills": 4
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 73.63562679290771,
+    "data": {
+      "word": "him",
+      "typed": "him",
+      "correct": true,
+      "time_taken": 3.0468268394470215,
+      "wrong_letters": [],
+      "word_difficulty": 2,
+      "game_difficulty": 8.942200791358948
+    }
+  },
+  {
+    "type": "enemy_defeated",
+    "timestamp": 73.63640213012695,
+    "data": {
+      "kill_count": 5,
+      "difficulty": 8.942200791358948
+    }
+  },
+  {
+    "type": "successful_hit",
+    "timestamp": 73.63640594482422,
+    "data": {
+      "damage": 30.41330118703842,
+      "word_difficulty": 2,
+      "game_difficulty": 8.942200791358948,
+      "ml_prediction": 0.8921144335794107,
+      "ml_optimal_difficulty": 9
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 74.78758502006531,
+    "data": {
+      "word": "slow",
+      "typed": "slow",
+      "correct": true,
+      "time_taken": 1.15083909034729,
+      "wrong_letters": [],
+      "word_difficulty": 2,
+      "game_difficulty": 8.942200791358948
+    }
+  },
+  {
+    "type": "successful_hit",
+    "timestamp": 74.7883369922638,
+    "data": {
+      "damage": 30.41330118703842,
+      "word_difficulty": 2,
+      "game_difficulty": 8.942200791358948,
+      "ml_prediction": 0.8721704888021924,
+      "ml_optimal_difficulty": 8
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 76.46585488319397,
+    "data": {
+      "word": "sea",
+      "typed": "sea",
+      "correct": true,
+      "time_taken": 1.6771798133850098,
+      "wrong_letters": [],
+      "word_difficulty": 2,
+      "game_difficulty": 8.942200791358948
+    }
+  },
+  {
+    "type": "successful_hit",
+    "timestamp": 76.46660590171814,
+    "data": {
+      "damage": 30.41330118703842,
+      "word_difficulty": 2,
+      "game_difficulty": 8.942200791358948,
+      "ml_prediction": 0.8984353618434139,
+      "ml_optimal_difficulty": 9
+    }
+  },
+  {
+    "type": "enemy_resurrected",
+    "timestamp": 76.66882300376892,
+    "data": {
+      "kill_count": 5,
+      "new_difficulty": 9.442200791358948
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 77.92617988586426,
+    "data": {
+      "word": "wifi",
+      "typed": "wifi",
+      "correct": true,
+      "time_taken": 1.4592492580413818,
+      "wrong_letters": [],
+      "word_difficulty": 1,
+      "game_difficulty": 9.442200791358948
+    }
+  },
+  {
+    "type": "successful_hit",
+    "timestamp": 77.92693901062012,
+    "data": {
+      "damage": 30.16330118703842,
+      "word_difficulty": 1,
+      "game_difficulty": 9.442200791358948,
+      "ml_prediction": 0.9044123774309552,
+      "ml_optimal_difficulty": 9
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 77.9270167350769,
+    "data": {
+      "word": "AvADA KEDAvRa",
+      "difficulty": 9.442200791358948,
+      "word_difficulty": 5,
+      "counter_time": 1.6952297230243683
+    }
+  },
+  {
+    "type": "difficulty_update",
+    "timestamp": 80.53727293014526,
+    "data": {
+      "difficulty": 8.896282410383224,
+      "wpm": 19,
+      "accuracy": 139,
+      "time_played": 80.0564820766449,
+      "enemy_kills": 5
+    }
+  },
+  {
+    "type": "counter_failure",
+    "timestamp": 83.0795829296112,
+    "data": {
+      "word": "AvADA KEDAvRa",
+      "difficulty": 8.896282410383224,
+      "damage_taken": 33.34442361557484
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 88.91766500473022,
+    "data": {
+      "word": "me",
+      "typed": "me",
+      "correct": true,
+      "time_taken": 4.818267822265625,
+      "wrong_letters": [],
+      "word_difficulty": 1,
+      "game_difficulty": 8.896282410383224
+    }
+  },
+  {
+    "type": "successful_hit",
+    "timestamp": 88.91842603683472,
+    "data": {
+      "damage": 29.344423615574836,
+      "word_difficulty": 1,
+      "game_difficulty": 8.896282410383224,
+      "ml_prediction": 0.8881322313081428,
+      "ml_optimal_difficulty": 8
+    }
+  },
+  {
+    "type": "difficulty_update",
+    "timestamp": 90.5399100780487,
+    "data": {
+      "difficulty": 8.210295230150223,
+      "wpm": 17,
+      "accuracy": 138,
+      "time_played": 90.05904603004456,
+      "enemy_kills": 5
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 91.69602179527283,
+    "data": {
+      "word": "good",
+      "typed": "good",
+      "correct": true,
+      "time_taken": 2.777338981628418,
+      "wrong_letters": [],
+      "word_difficulty": 3,
+      "game_difficulty": 8.210295230150223
+    }
+  },
+  {
+    "type": "successful_hit",
+    "timestamp": 91.69655275344849,
+    "data": {
+      "damage": 30.315442845225334,
+      "word_difficulty": 3,
+      "game_difficulty": 8.210295230150223,
+      "ml_prediction": 0.8084716512805338,
+      "ml_optimal_difficulty": 8
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 91.69658374786377,
+    "data": {
+      "word": "Obliviate",
+      "difficulty": 8.210295230150223,
+      "word_difficulty": 6,
+      "counter_time": 1.9263966694474222
+    }
+  },
+  {
+    "type": "enemy_defeated",
+    "timestamp": 95.67673683166504,
+    "data": {
+      "kill_count": 6,
+      "difficulty": 8.210295230150223
+    }
+  },
+  {
+    "type": "counter_success",
+    "timestamp": 95.67674207687378,
+    "data": {
+      "word": "Obliviate",
+      "difficulty": 8.210295230150223,
+      "damage_dealt": 41.420590460300446
+    }
+  },
+  {
+    "type": "enemy_resurrected",
+    "timestamp": 98.71287393569946,
+    "data": {
+      "kill_count": 6,
+      "new_difficulty": 8.710295230150223
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 98.83173084259033,
+    "data": {
+      "word": "year",
+      "typed": "year",
+      "correct": true,
+      "time_taken": 2.1422629356384277,
+      "wrong_letters": [],
+      "word_difficulty": 2,
+      "game_difficulty": 8.710295230150223
+    }
+  },
+  {
+    "type": "successful_hit",
+    "timestamp": 98.83249306678772,
+    "data": {
+      "damage": 30.065442845225334,
+      "word_difficulty": 2,
+      "game_difficulty": 8.710295230150223,
+      "ml_prediction": 0.898817958848708,
+      "ml_optimal_difficulty": 9
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 99.77607274055481,
+    "data": {
+      "word": "see",
+      "typed": "see",
+      "correct": true,
+      "time_taken": 0.9433269500732422,
+      "wrong_letters": [],
+      "word_difficulty": 3,
+      "game_difficulty": 9.010295230150223
+    }
+  },
+  {
+    "type": "successful_hit",
+    "timestamp": 99.77660512924194,
+    "data": {
+      "damage": 31.515442845225337,
+      "word_difficulty": 3,
+      "game_difficulty": 9.010295230150223,
+      "ml_prediction": 0.8792831728732766,
+      "ml_optimal_difficulty": 8
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 99.77664184570312,
+    "data": {
+      "word": "a",
+      "difficulty": 9.010295230150223,
+      "word_difficulty": 2,
+      "counter_time": 2.446396669447422
+    }
+  },
+  {
+    "type": "difficulty_update",
+    "timestamp": 100.55438685417175,
+    "data": {
+      "difficulty": 8.320367939472199,
+      "wpm": 18,
+      "accuracy": 142,
+      "time_played": 100.0735878944397,
+      "enemy_kills": 6
+    }
+  },
+  {
+    "type": "enemy_defeated",
+    "timestamp": 100.60557103157043,
+    "data": {
+      "kill_count": 7,
+      "difficulty": 8.320367939472199
+    }
+  },
+  {
+    "type": "counter_success",
+    "timestamp": 100.60557675361633,
+    "data": {
+      "word": "a",
+      "difficulty": 8.320367939472199,
+      "damage_dealt": 41.6407358789444
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 103.07972502708435,
+    "data": {
+      "word": "then",
+      "typed": "men",
+      "correct": false,
+      "time_taken": 1.4537789821624756,
+      "wrong_letters": [],
+      "word_difficulty": 1,
+      "game_difficulty": 8.320367939472199
+    }
+  },
+  {
+    "type": "failed_hit",
+    "timestamp": 103.08048987388611,
+    "data": {
+      "damage_taken": 19.984441527366638,
+      "word_difficulty": 0,
+      "game_difficulty": 8.320367939472199,
+      "ml_prediction": 0.9240151867765799,
+      "ml_optimal_difficulty": 9
+    }
+  },
+  {
+    "type": "enemy_resurrected",
+    "timestamp": 103.63848495483398,
+    "data": {
+      "kill_count": 7,
+      "new_difficulty": 8.820367939472199
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 104.53371596336365,
+    "data": {
+      "word": "sky",
+      "typed": "sky",
+      "correct": true,
+      "time_taken": 1.4528942108154297,
+      "wrong_letters": [],
+      "word_difficulty": 3,
+      "game_difficulty": 8.820367939472199
+    }
+  },
+  {
+    "type": "successful_hit",
+    "timestamp": 104.53448295593262,
+    "data": {
+      "damage": 31.230551909208298,
+      "word_difficulty": 3,
+      "game_difficulty": 8.820367939472199,
+      "ml_prediction": 0.699189095764128,
+      "ml_optimal_difficulty": 7
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 104.5345549583435,
+    "data": {
+      "word": "BuT",
+      "difficulty": 8.820367939472199,
+      "word_difficulty": 5,
+      "counter_time": 1.9128712211847305
+    }
+  },
+  {
+    "type": "counter_failure",
+    "timestamp": 106.34451699256897,
+    "data": {
+      "word": "BuT",
+      "difficulty": 8.820367939472199,
+      "damage_taken": 33.2305519092083
+    }
+  },
+  {
+    "type": "game_over",
+    "timestamp": 106.3445611000061,
+    "data": {
+      "final_difficulty": 8.820367939472199,
+      "total_words": 35,
+      "final_wpm": 17,
+      "final_accuracy": 138,
+      "play_time": 105.86429214477539,
+      "enemy_kills": 7,
+      "live_ml_accuracy": 0.9259259259259259,
+      "ml_predictions_made": 27,
+      "ml_correct_predictions": 25
+    }
+  }
+]

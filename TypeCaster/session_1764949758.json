@@ -1,0 +1,300 @@
+[
+  {
+    "type": "word_attempt",
+    "timestamp": 4.252253293991089,
+    "data": {
+      "word": "Bombarda",
+      "typed": "Bombarda",
+      "correct": true,
+      "time_taken": 3.8428449630737305,
+      "word_difficulty": 4
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 11.55476713180542,
+    "data": {
+      "word": "institutionalization",
+      "typed": "Institutionalization",
+      "correct": false,
+      "time_taken": 7.3021838665008545,
+      "word_difficulty": 6
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 15.016318321228027,
+    "data": {
+      "word": "Evanesco",
+      "typed": "Evanesco",
+      "correct": true,
+      "time_taken": 3.461282730102539,
+      "word_difficulty": 5
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 15.01640009880066,
+    "data": {
+      "word": "piertotum locomotor",
+      "difficulty": 5
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 24.98424005508423,
+    "data": {
+      "word": "uncomfortable",
+      "typed": "Uncomfortable",
+      "correct": false,
+      "time_taken": 5.9511940479278564,
+      "word_difficulty": 5
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 32.56629824638367,
+    "data": {
+      "word": "unchallengeableness",
+      "typed": "unchallengeableness",
+      "correct": true,
+      "time_taken": 7.581744909286499,
+      "word_difficulty": 6
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 36.13649106025696,
+    "data": {
+      "word": "international",
+      "typed": "international",
+      "correct": true,
+      "time_taken": 3.569777250289917,
+      "word_difficulty": 5
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 36.13654112815857,
+    "data": {
+      "word": "Aparecium",
+      "difficulty": 5
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 44.64185810089111,
+    "data": {
+      "word": "nevertheless",
+      "typed": "nevertheless",
+      "correct": true,
+      "time_taken": 4.2207722663879395,
+      "word_difficulty": 7
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 47.981717109680176,
+    "data": {
+      "word": "Muffliato",
+      "typed": "Muffliato",
+      "correct": true,
+      "time_taken": 3.339547872543335,
+      "word_difficulty": 6
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 54.24207925796509,
+    "data": {
+      "word": "quattuordecillion",
+      "typed": "quattuodecillion",
+      "correct": false,
+      "time_taken": 6.260025262832642,
+      "word_difficulty": 7
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 54.24212908744812,
+    "data": {
+      "word": "network",
+      "difficulty": 5
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 67.21397399902344,
+    "data": {
+      "word": "unconscientiousness",
+      "typed": "unconscienctiosness",
+      "correct": false,
+      "time_taken": 10.037702083587646,
+      "word_difficulty": 6
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 74.68972897529602,
+    "data": {
+      "word": "philosophical",
+      "typed": "philosophical",
+      "correct": true,
+      "time_taken": 4.032915115356445,
+      "word_difficulty": 5
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 77.85291528701782,
+    "data": {
+      "word": "environmental",
+      "typed": "environmental",
+      "correct": true,
+      "time_taken": 3.1628801822662354,
+      "word_difficulty": 6
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 82.57816123962402,
+    "data": {
+      "word": "encryption",
+      "typed": "encryption",
+      "correct": true,
+      "time_taken": 4.724950075149536,
+      "word_difficulty": 5
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 82.5782163143158,
+    "data": {
+      "word": "network",
+      "difficulty": 5
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 103.88503503799438,
+    "data": {
+      "word": "immunoelectrophoretically",
+      "typed": "immunoelectrophoretically",
+      "correct": true,
+      "time_taken": 18.71886897087097,
+      "word_difficulty": 6
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 128.28829908370972,
+    "data": {
+      "word": "spectrophotofluorometrically",
+      "typed": "spectrophotofluorometrically",
+      "correct": true,
+      "time_taken": 24.402910947799683,
+      "word_difficulty": 6
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 134.72333312034607,
+    "data": {
+      "word": "Repello Inimicum",
+      "typed": "repello Inimicum",
+      "correct": false,
+      "time_taken": 6.434715032577515,
+      "word_difficulty": 8
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 134.72337412834167,
+    "data": {
+      "word": "Aparecium",
+      "difficulty": 5
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 150.51653814315796,
+    "data": {
+      "word": "Protego Horribilis",
+      "typed": "Protego Horribilis",
+      "correct": true,
+      "time_taken": 11.788076162338257,
+      "word_difficulty": 8
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 155.33994698524475,
+    "data": {
+      "word": "Repello Inimicum",
+      "typed": "Repello Inimicum",
+      "correct": true,
+      "time_taken": 4.823141813278198,
+      "word_difficulty": 8
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 160.20818829536438,
+    "data": {
+      "word": "Homenum Revelio",
+      "typed": "Homenum Revelio",
+      "correct": true,
+      "time_taken": 4.86797308921814,
+      "word_difficulty": 8
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 160.2082543373108,
+    "data": {
+      "word": "avada kedavra",
+      "difficulty": 5
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 167.97991609573364,
+    "data": {
+      "word": "Lumos Maxima",
+      "typed": "Lumos Maxima",
+      "correct": true,
+      "time_taken": 3.5696709156036377,
+      "word_difficulty": 8
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 170.7447371482849,
+    "data": {
+      "word": "Avada Kedavra",
+      "typed": "Avada kedavra",
+      "correct": false,
+      "time_taken": 2.764554023742676,
+      "word_difficulty": 10
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 176.71282505989075,
+    "data": {
+      "word": "Expecto Patronum",
+      "typed": "Expecto Patronum",
+      "correct": true,
+      "time_taken": 5.967817068099976,
+      "word_difficulty": 8
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 176.71288323402405,
+    "data": {
+      "word": "EXPECTO PATRONUM",
+      "difficulty": 5
+    }
+  }
+]

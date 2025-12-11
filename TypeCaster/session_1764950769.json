@@ -1,0 +1,212 @@
+[
+  {
+    "type": "word_attempt",
+    "timestamp": 4.177317142486572,
+    "data": {
+      "word": "ghost",
+      "typed": "ghost",
+      "correct": true,
+      "time_taken": 3.7022769451141357,
+      "word_difficulty": 3
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 6.022411108016968,
+    "data": {
+      "word": "debug",
+      "typed": "debug",
+      "correct": true,
+      "time_taken": 1.844782829284668,
+      "word_difficulty": 3
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 7.494906187057495,
+    "data": {
+      "word": "query",
+      "typed": "query",
+      "correct": true,
+      "time_taken": 1.4722018241882324,
+      "word_difficulty": 4
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 7.495004177093506,
+    "data": {
+      "word": "virtual",
+      "difficulty": 5,
+      "counter_time": 4.0
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 12.893935203552246,
+    "data": {
+      "word": "monitor",
+      "typed": "monitor",
+      "correct": true,
+      "time_taken": 2.4394659996032715,
+      "word_difficulty": 4
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 14.335827350616455,
+    "data": {
+      "word": "potion",
+      "typed": "potion",
+      "correct": true,
+      "time_taken": 1.4416580200195312,
+      "word_difficulty": 3
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 16.952481031417847,
+    "data": {
+      "word": "virtual",
+      "typed": "virtual",
+      "correct": true,
+      "time_taken": 2.6164510250091553,
+      "word_difficulty": 5
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 16.952543020248413,
+    "data": {
+      "word": "REVOLUTIONARY",
+      "difficulty": 5,
+      "counter_time": 4.0
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 25.838141202926636,
+    "data": {
+      "word": "Glisseo",
+      "typed": "Clisseo",
+      "correct": false,
+      "time_taken": 3.8670337200164795,
+      "word_difficulty": 5
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 28.388957262039185,
+    "data": {
+      "word": "cache",
+      "typed": "cache",
+      "correct": true,
+      "time_taken": 2.550494909286499,
+      "word_difficulty": 3
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 29.69662117958069,
+    "data": {
+      "word": "there",
+      "typed": "there",
+      "correct": true,
+      "time_taken": 1.307365894317627,
+      "word_difficulty": 3
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 29.6967191696167,
+    "data": {
+      "word": "oPtiMiZe",
+      "difficulty": 5,
+      "counter_time": 4.0
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 37.23235726356506,
+    "data": {
+      "word": "Ferula",
+      "typed": "Ferula",
+      "correct": true,
+      "time_taken": 2.309903144836426,
+      "word_difficulty": 3
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 39.09291315078735,
+    "data": {
+      "word": "people",
+      "typed": "people",
+      "correct": true,
+      "time_taken": 1.8601148128509521,
+      "word_difficulty": 3
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 40.78890109062195,
+    "data": {
+      "word": "monitor",
+      "typed": "monitor",
+      "correct": true,
+      "time_taken": 1.6956732273101807,
+      "word_difficulty": 4
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 40.788971185684204,
+    "data": {
+      "word": "INVESTIGATION",
+      "difficulty": 5,
+      "counter_time": 4.0
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 48.75059723854065,
+    "data": {
+      "word": "Finite",
+      "typed": "Finite",
+      "correct": true,
+      "time_taken": 2.9528491497039795,
+      "word_difficulty": 3
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 50.847421169281006,
+    "data": {
+      "word": "Sonorus",
+      "typed": "Sonorus",
+      "correct": true,
+      "time_taken": 2.0965261459350586,
+      "word_difficulty": 4
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 52.360883951187134,
+    "data": {
+      "word": "shield",
+      "typed": "shielf",
+      "correct": false,
+      "time_taken": 1.5131547451019287,
+      "word_difficulty": 3
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 52.36095118522644,
+    "data": {
+      "word": "adventure",
+      "difficulty": 6,
+      "counter_time": 3.8
+    }
+  }
+]

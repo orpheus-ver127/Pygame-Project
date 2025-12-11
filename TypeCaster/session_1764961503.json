@@ -1,0 +1,128 @@
+[
+  {
+    "type": "word_attempt",
+    "timestamp": 2.9236929416656494,
+    "data": {
+      "word": "first",
+      "typed": "First",
+      "correct": false,
+      "time_taken": 2.4013819694519043,
+      "word_difficulty": 3
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 5.479278087615967,
+    "data": {
+      "word": "graphics",
+      "typed": "graphics",
+      "correct": true,
+      "time_taken": 2.555229902267456,
+      "word_difficulty": 4
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 7.857087850570679,
+    "data": {
+      "word": "knight",
+      "typed": "knight",
+      "correct": true,
+      "time_taken": 2.377519130706787,
+      "word_difficulty": 4
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 7.857168912887573,
+    "data": {
+      "word": "WArRIor",
+      "difficulty": 5,
+      "counter_time": 4.0
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 16.924336910247803,
+    "data": {
+      "word": "vocabulary",
+      "typed": "vocabulary",
+      "correct": true,
+      "time_taken": 4.060810327529907,
+      "word_difficulty": 6
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 19.147238969802856,
+    "data": {
+      "word": "scroll",
+      "typed": "scroll",
+      "correct": true,
+      "time_taken": 2.222620964050293,
+      "word_difficulty": 4
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 23.559778928756714,
+    "data": {
+      "word": "Riddikulus",
+      "typed": "Riddikulus",
+      "correct": true,
+      "time_taken": 4.412275075912476,
+      "word_difficulty": 7
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 23.559832096099854,
+    "data": {
+      "word": "Wingardium Leviosa",
+      "difficulty": 9,
+      "counter_time": 3.2
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 30.465370178222656,
+    "data": {
+      "word": "EPISKEY",
+      "typed": "EPISKEY",
+      "correct": true,
+      "time_taken": 2.704145908355713,
+      "word_difficulty": 5
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 42.42084193229675,
+    "data": {
+      "word": "uNchalLeNgeaBleNEss",
+      "typed": "uNchalleNgeaBleNEss",
+      "correct": false,
+      "time_taken": 11.955169916152954,
+      "word_difficulty": 5
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 46.14813995361328,
+    "data": {
+      "word": "javascript",
+      "typed": "javascript",
+      "correct": true,
+      "time_taken": 3.7270169258117676,
+      "word_difficulty": 7
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 46.14820098876953,
+    "data": {
+      "word": "UNCHALLENGEABLENESS",
+      "difficulty": 5,
+      "counter_time": 4.0
+    }
+  }
+]

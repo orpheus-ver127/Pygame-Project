@@ -1,0 +1,124 @@
+[
+  {
+    "type": "difficulty_update",
+    "timestamp": 10.41891098022461,
+    "data": {
+      "difficulty": 5.1667977531751,
+      "wpm": 0,
+      "accuracy": 100,
+      "time_played": 10.007865190505981,
+      "enemy_kills": 0
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 12.409303188323975,
+    "data": {
+      "word": "ghost",
+      "typed": "gost",
+      "correct": false,
+      "time_taken": 11.99803376197815,
+      "word_difficulty": 3,
+      "game_difficulty": 5.1667977531751
+    }
+  },
+  {
+    "type": "failed_hit",
+    "timestamp": 12.409324169158936,
+    "data": {
+      "damage_taken": 17.20015730381012,
+      "word_difficulty": 1,
+      "game_difficulty": 5.1667977531751
+    }
+  },
+  {
+    "type": "difficulty_update",
+    "timestamp": 20.42146897315979,
+    "data": {
+      "difficulty": 1.3335074027379354,
+      "wpm": 0,
+      "accuracy": 0,
+      "time_played": 20.010444164276123,
+      "enemy_kills": 0
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 20.776937007904053,
+    "data": {
+      "word": "whicH",
+      "typed": "",
+      "correct": false,
+      "time_taken": 8.367286205291748,
+      "word_difficulty": 5,
+      "game_difficulty": 1.3335074027379354
+    }
+  },
+  {
+    "type": "failed_hit",
+    "timestamp": 20.776954174041748,
+    "data": {
+      "damage_taken": 13.600208883285523,
+      "word_difficulty": 2,
+      "game_difficulty": 1.3335074027379354
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 20.777061223983765,
+    "data": {
+      "word": "ROOF",
+      "difficulty": 1.3335074027379354,
+      "word_difficulty": 5,
+      "counter_time": 4.5332724090417225
+    }
+  },
+  {
+    "type": "counter_failure",
+    "timestamp": 24.78183913230896,
+    "data": {
+      "word": "ROOF",
+      "difficulty": 1.3335074027379354,
+      "damage_taken": 22.000261104106904
+    }
+  },
+  {
+    "type": "counter_failure",
+    "timestamp": 25.491482257843018,
+    "data": {
+      "word": "ROOF",
+      "difficulty": 1.3335074027379354,
+      "damage_taken": 22.000261104106904
+    }
+  },
+  {
+    "type": "counter_failure",
+    "timestamp": 25.711600303649902,
+    "data": {
+      "word": "ROOF",
+      "difficulty": 1.3335074027379354,
+      "damage_taken": 22.000261104106904
+    }
+  },
+  {
+    "type": "counter_failure",
+    "timestamp": 26.033812999725342,
+    "data": {
+      "word": "ROOF",
+      "difficulty": 1.3335074027379354,
+      "damage_taken": 22.000261104106904
+    }
+  },
+  {
+    "type": "game_over",
+    "timestamp": 26.033852338790894,
+    "data": {
+      "final_difficulty": 1.3335074027379354,
+      "total_words": 0,
+      "final_wpm": 0,
+      "final_accuracy": 0,
+      "play_time": 25.62285304069519,
+      "enemy_kills": 0
+    }
+  }
+]

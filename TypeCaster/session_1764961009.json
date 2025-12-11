@@ -1,0 +1,86 @@
+[
+  {
+    "type": "word_attempt",
+    "timestamp": 4.5017359256744385,
+    "data": {
+      "word": "floor",
+      "typed": "Floor",
+      "correct": false,
+      "time_taken": 4.07206392288208,
+      "word_difficulty": 4
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 8.813125848770142,
+    "data": {
+      "word": "Aparecium",
+      "typed": "Aparecium",
+      "correct": true,
+      "time_taken": 4.311032772064209,
+      "word_difficulty": 5
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 9.730368614196777,
+    "data": {
+      "word": "Descendo",
+      "typed": "",
+      "correct": false,
+      "time_taken": 0.9169008731842041,
+      "word_difficulty": 4
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 9.730463027954102,
+    "data": {
+      "word": "Deletrius",
+      "difficulty": 5,
+      "counter_time": 4.0
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 18.20899486541748,
+    "data": {
+      "word": "keyboard",
+      "typed": "keyboard",
+      "correct": true,
+      "time_taken": 3.4682421684265137,
+      "word_difficulty": 5
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 22.768703937530518,
+    "data": {
+      "word": "Obliviate",
+      "typed": "Obliviate",
+      "correct": true,
+      "time_taken": 4.5594141483306885,
+      "word_difficulty": 6
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 25.231939792633057,
+    "data": {
+      "word": "Descendo",
+      "typed": "",
+      "correct": false,
+      "time_taken": 2.4629111289978027,
+      "word_difficulty": 4
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 25.23200798034668,
+    "data": {
+      "word": "dwarf",
+      "difficulty": 3,
+      "counter_time": 4.4
+    }
+  }
+]

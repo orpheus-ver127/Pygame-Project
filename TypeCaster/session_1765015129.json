@@ -1,0 +1,632 @@
+[
+  {
+    "type": "word_attempt",
+    "timestamp": 6.445501089096069,
+    "data": {
+      "word": "ubuntu",
+      "typed": "ubuntu",
+      "correct": true,
+      "time_taken": 6.022485017776489,
+      "word_difficulty": 3
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 8.079573154449463,
+    "data": {
+      "word": "there",
+      "typed": "there",
+      "correct": true,
+      "time_taken": 1.6337659358978271,
+      "word_difficulty": 3
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 9.741657018661499,
+    "data": {
+      "word": "castle",
+      "typed": "castle",
+      "correct": true,
+      "time_taken": 1.661858081817627,
+      "word_difficulty": 3
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 9.741720199584961,
+    "data": {
+      "word": "accomplishment",
+      "difficulty": 7,
+      "counter_time": 3.6
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 16.307025909423828,
+    "data": {
+      "word": "potion",
+      "typed": "potion",
+      "correct": true,
+      "time_taken": 1.5784220695495605,
+      "word_difficulty": 3
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 17.740720987319946,
+    "data": {
+      "word": "cloud",
+      "typed": "cloud",
+      "correct": true,
+      "time_taken": 1.4333908557891846,
+      "word_difficulty": 3
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 20.102086067199707,
+    "data": {
+      "word": "virtual",
+      "typed": "virtual",
+      "correct": true,
+      "time_taken": 2.3610377311706543,
+      "word_difficulty": 5
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 20.102157831192017,
+    "data": {
+      "word": "DisTiNgUISHEd",
+      "difficulty": 5,
+      "counter_time": 4.0
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 31.405927896499634,
+    "data": {
+      "word": "binary",
+      "typed": "binary",
+      "correct": true,
+      "time_taken": 2.594011068344116,
+      "word_difficulty": 3
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 32.93544602394104,
+    "data": {
+      "word": "about",
+      "typed": "about",
+      "correct": true,
+      "time_taken": 1.5292479991912842,
+      "word_difficulty": 3
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 34.648707151412964,
+    "data": {
+      "word": "shield",
+      "typed": "shield",
+      "correct": true,
+      "time_taken": 1.712939977645874,
+      "word_difficulty": 3
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 34.64879608154297,
+    "data": {
+      "word": "TARantalLeGRA",
+      "difficulty": 5,
+      "counter_time": 4.0
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 47.09166193008423,
+    "data": {
+      "word": "Tergeo",
+      "typed": "Tergeo",
+      "correct": true,
+      "time_taken": 3.093707799911499,
+      "word_difficulty": 3
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 49.26283288002014,
+    "data": {
+      "word": "goblin",
+      "typed": "goblin",
+      "correct": true,
+      "time_taken": 2.1708638668060303,
+      "word_difficulty": 3
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 51.09712481498718,
+    "data": {
+      "word": "because",
+      "typed": "because",
+      "correct": true,
+      "time_taken": 1.8339970111846924,
+      "word_difficulty": 4
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 51.097179889678955,
+    "data": {
+      "word": "langlock",
+      "difficulty": 5,
+      "counter_time": 4.0
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 59.26031279563904,
+    "data": {
+      "word": "xcode",
+      "typed": "xcode",
+      "correct": true,
+      "time_taken": 1.8970119953155518,
+      "word_difficulty": 4
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 60.60064101219177,
+    "data": {
+      "word": "socket",
+      "typed": "socket",
+      "correct": true,
+      "time_taken": 1.3400299549102783,
+      "word_difficulty": 4
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 62.472514152526855,
+    "data": {
+      "word": "warrior",
+      "typed": "warrior",
+      "correct": true,
+      "time_taken": 1.8715779781341553,
+      "word_difficulty": 5
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 62.472580909729004,
+    "data": {
+      "word": "vampire",
+      "difficulty": 5,
+      "counter_time": 4.0
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 70.1337959766388,
+    "data": {
+      "word": "Oppugno",
+      "typed": "Oppugno",
+      "correct": true,
+      "time_taken": 4.796767950057983,
+      "word_difficulty": 5
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 71.33258700370789,
+    "data": {
+      "word": "about",
+      "typed": "about",
+      "correct": true,
+      "time_taken": 1.1985840797424316,
+      "word_difficulty": 3
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 73.45780205726624,
+    "data": {
+      "word": "vampire",
+      "typed": "vampire",
+      "correct": true,
+      "time_taken": 2.124929904937744,
+      "word_difficulty": 5
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 73.45785999298096,
+    "data": {
+      "word": "Glisseo",
+      "difficulty": 5,
+      "counter_time": 4.0
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 80.5705201625824,
+    "data": {
+      "word": "binary",
+      "typed": "binary",
+      "correct": true,
+      "time_taken": 2.2782857418060303,
+      "word_difficulty": 3
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 82.90850591659546,
+    "data": {
+      "word": "sacred",
+      "typed": "sacred",
+      "correct": true,
+      "time_taken": 2.337675094604492,
+      "word_difficulty": 3
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 86.19009399414062,
+    "data": {
+      "word": "android",
+      "typed": "android",
+      "correct": true,
+      "time_taken": 3.2812607288360596,
+      "word_difficulty": 4
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 86.19014883041382,
+    "data": {
+      "word": "BLESSED",
+      "difficulty": 5,
+      "counter_time": 4.0
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 93.74258685112,
+    "data": {
+      "word": "browser",
+      "typed": "browser",
+      "correct": true,
+      "time_taken": 2.535015106201172,
+      "word_difficulty": 4
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 95.42855620384216,
+    "data": {
+      "word": "virtual",
+      "typed": "virtual",
+      "correct": true,
+      "time_taken": 1.6856720447540283,
+      "word_difficulty": 5
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 97.07710218429565,
+    "data": {
+      "word": "sword",
+      "typed": "sword",
+      "correct": true,
+      "time_taken": 1.6482460498809814,
+      "word_difficulty": 3
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 97.07716798782349,
+    "data": {
+      "word": "impervius",
+      "difficulty": 5,
+      "counter_time": 4.0
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 103.53451204299927,
+    "data": {
+      "word": "ghost",
+      "typed": "ghost",
+      "correct": true,
+      "time_taken": 1.9020881652832031,
+      "word_difficulty": 3
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 106.3276879787445,
+    "data": {
+      "word": "website",
+      "typed": "website",
+      "correct": true,
+      "time_taken": 2.7928688526153564,
+      "word_difficulty": 4
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 108.16171026229858,
+    "data": {
+      "word": "linux",
+      "typed": "linux",
+      "correct": true,
+      "time_taken": 1.8337299823760986,
+      "word_difficulty": 4
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 108.16177105903625,
+    "data": {
+      "word": "QUIETUS",
+      "difficulty": 5,
+      "counter_time": 4.0
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 116.91132497787476,
+    "data": {
+      "word": "goblin",
+      "typed": "goblin",
+      "correct": true,
+      "time_taken": 2.791424036026001,
+      "word_difficulty": 3
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 118.53322410583496,
+    "data": {
+      "word": "network",
+      "typed": "network",
+      "correct": true,
+      "time_taken": 1.6216130256652832,
+      "word_difficulty": 5
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 120.91093897819519,
+    "data": {
+      "word": "browser",
+      "typed": "browser",
+      "correct": true,
+      "time_taken": 2.3774890899658203,
+      "word_difficulty": 4
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 120.91097402572632,
+    "data": {
+      "word": "blessed",
+      "difficulty": 5,
+      "counter_time": 4.0
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 128.23044610023499,
+    "data": {
+      "word": "Glisseo",
+      "typed": "Clisseo",
+      "correct": false,
+      "time_taken": 4.17067813873291,
+      "word_difficulty": 5
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 130.81386494636536,
+    "data": {
+      "word": "cache",
+      "typed": "cache",
+      "correct": true,
+      "time_taken": 2.583150863647461,
+      "word_difficulty": 3
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 132.37428402900696,
+    "data": {
+      "word": "paladin",
+      "typed": "paladin",
+      "correct": true,
+      "time_taken": 1.5600950717926025,
+      "word_difficulty": 4
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 132.37436604499817,
+    "data": {
+      "word": "Protego Totalum",
+      "difficulty": 8,
+      "counter_time": 3.4
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 140.96892404556274,
+    "data": {
+      "word": "sword",
+      "typed": "sword",
+      "correct": true,
+      "time_taken": 1.7861878871917725,
+      "word_difficulty": 3
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 142.3971290588379,
+    "data": {
+      "word": "debug",
+      "typed": "debug",
+      "correct": true,
+      "time_taken": 1.4278950691223145,
+      "word_difficulty": 3
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 146.05131602287292,
+    "data": {
+      "word": "python",
+      "typed": "python",
+      "correct": true,
+      "time_taken": 3.6538827419281006,
+      "word_difficulty": 3
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 146.05137586593628,
+    "data": {
+      "word": "misinterpretation",
+      "difficulty": 6,
+      "counter_time": 3.8
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 153.2717080116272,
+    "data": {
+      "word": "these",
+      "typed": "these",
+      "correct": true,
+      "time_taken": 2.2854819297790527,
+      "word_difficulty": 3
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 154.49938321113586,
+    "data": {
+      "word": "sword",
+      "typed": "sword",
+      "correct": true,
+      "time_taken": 1.2273550033569336,
+      "word_difficulty": 3
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 155.7441201210022,
+    "data": {
+      "word": "about",
+      "typed": "about",
+      "correct": true,
+      "time_taken": 1.244441032409668,
+      "word_difficulty": 3
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 155.74417805671692,
+    "data": {
+      "word": "Episkey",
+      "difficulty": 5,
+      "counter_time": 4.0
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 161.78391313552856,
+    "data": {
+      "word": "troll",
+      "typed": "troll",
+      "correct": true,
+      "time_taken": 1.8695788383483887,
+      "word_difficulty": 4
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 166.0094699859619,
+    "data": {
+      "word": "nodejs",
+      "typed": "nodejs",
+      "correct": true,
+      "time_taken": 4.225254774093628,
+      "word_difficulty": 4
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 167.95071506500244,
+    "data": {
+      "word": "first",
+      "typed": "firs",
+      "correct": false,
+      "time_taken": 1.9409599304199219,
+      "word_difficulty": 3
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 167.95077109336853,
+    "data": {
+      "word": "network",
+      "difficulty": 5,
+      "counter_time": 4.0
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 172.42178416252136,
+    "data": {
+      "word": "zombie",
+      "typed": "zo",
+      "correct": false,
+      "time_taken": 1.5806159973144531,
+      "word_difficulty": 4
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 172.84524488449097,
+    "data": {
+      "word": "cloud",
+      "typed": "z",
+      "correct": false,
+      "time_taken": 0.4231839179992676,
+      "word_difficulty": 3
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 173.42729306221008,
+    "data": {
+      "word": "Anapneo",
+      "typed": "z",
+      "correct": false,
+      "time_taken": 0.5817396640777588,
+      "word_difficulty": 4
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 173.4273509979248,
+    "data": {
+      "word": "network",
+      "difficulty": 5,
+      "counter_time": 4.0
+    }
+  }
+]

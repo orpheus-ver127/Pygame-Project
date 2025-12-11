@@ -1,0 +1,433 @@
+[
+  {
+    "type": "difficulty_update",
+    "timestamp": 10.557106971740723,
+    "data": {
+      "difficulty": 5.166799851258596,
+      "wpm": 0,
+      "accuracy": 100,
+      "time_played": 10.007991075515747,
+      "enemy_kills": 0
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 11.82670283317566,
+    "data": {
+      "word": "if",
+      "typed": "",
+      "correct": false,
+      "time_taken": 11.277376890182495,
+      "wrong_letters": [],
+      "word_difficulty": 1,
+      "game_difficulty": 5.166799851258596
+    }
+  },
+  {
+    "type": "failed_hit",
+    "timestamp": 11.82673692703247,
+    "data": {
+      "damage_taken": 16.200159821510315,
+      "word_difficulty": 0,
+      "game_difficulty": 5.166799851258596,
+      "ml_prediction": 0.5,
+      "ml_optimal_difficulty": 5
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 20.224950790405273,
+    "data": {
+      "word": "pRofessIonal",
+      "typed": "",
+      "correct": false,
+      "time_taken": 8.397873163223267,
+      "wrong_letters": [],
+      "word_difficulty": 5,
+      "game_difficulty": 5.166799851258596
+    }
+  },
+  {
+    "type": "failed_hit",
+    "timestamp": 20.224973917007446,
+    "data": {
+      "damage_taken": 18.200159821510315,
+      "word_difficulty": 2,
+      "game_difficulty": 5.166799851258596,
+      "ml_prediction": 0.5,
+      "ml_optimal_difficulty": 5
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 20.22505784034729,
+    "data": {
+      "word": "Piertotum Locomotor",
+      "difficulty": 5.166799851258596,
+      "word_difficulty": 8,
+      "counter_time": 2.591620052059491
+    }
+  },
+  {
+    "type": "difficulty_update",
+    "timestamp": 20.56317973136902,
+    "data": {
+      "difficulty": 5.333567714691162,
+      "wpm": 0,
+      "accuracy": 100,
+      "time_played": 20.014062881469727,
+      "enemy_kills": 0
+    }
+  },
+  {
+    "type": "counter_failure",
+    "timestamp": 22.814241886138916,
+    "data": {
+      "word": "Piertotum Locomotor",
+      "difficulty": 5.333567714691162,
+      "damage_taken": 28.00035157203674
+    }
+  },
+  {
+    "type": "difficulty_update",
+    "timestamp": 30.566232919692993,
+    "data": {
+      "difficulty": 5.5002852320671085,
+      "wpm": 0,
+      "accuracy": 100,
+      "time_played": 30.01711392402649,
+      "enemy_kills": 0
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 32.09703207015991,
+    "data": {
+      "word": "browser",
+      "typed": "",
+      "correct": false,
+      "time_taken": 8.262091875076294,
+      "wrong_letters": [],
+      "word_difficulty": 4,
+      "game_difficulty": 5.5002852320671085
+    }
+  },
+  {
+    "type": "failed_hit",
+    "timestamp": 32.097054958343506,
+    "data": {
+      "damage_taken": 18.60034227848053,
+      "word_difficulty": 2,
+      "game_difficulty": 5.5002852320671085,
+      "ml_prediction": 0.5,
+      "ml_optimal_difficulty": 5
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 40.2479989528656,
+    "data": {
+      "word": "EPIsKEY",
+      "typed": "",
+      "correct": false,
+      "time_taken": 8.150657176971436,
+      "wrong_letters": [],
+      "word_difficulty": 5,
+      "game_difficulty": 5.5002852320671085
+    }
+  },
+  {
+    "type": "failed_hit",
+    "timestamp": 40.249008893966675,
+    "data": {
+      "damage_taken": 18.60034227848053,
+      "word_difficulty": 2,
+      "game_difficulty": 5.5002852320671085,
+      "ml_prediction": 0.2672724921537939,
+      "ml_optimal_difficulty": 3
+    }
+  },
+  {
+    "type": "difficulty_update",
+    "timestamp": 40.57282900810242,
+    "data": {
+      "difficulty": 3.80011617898941,
+      "wpm": 0,
+      "accuracy": 100,
+      "time_played": 40.02323579788208,
+      "enemy_kills": 0
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 48.409557819366455,
+    "data": {
+      "word": "ViRtual",
+      "typed": "",
+      "correct": false,
+      "time_taken": 8.160242795944214,
+      "wrong_letters": [],
+      "word_difficulty": 5,
+      "game_difficulty": 3.80011617898941
+    }
+  },
+  {
+    "type": "failed_hit",
+    "timestamp": 48.41039967536926,
+    "data": {
+      "damage_taken": 16.560139414787294,
+      "word_difficulty": 2,
+      "game_difficulty": 3.80011617898941,
+      "ml_prediction": 0.28390171779166773,
+      "ml_optimal_difficulty": 3
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 48.41053795814514,
+    "data": {
+      "word": "Evanesco",
+      "difficulty": 3.80011617898941,
+      "word_difficulty": 5,
+      "counter_time": 3.6699593373537063
+    }
+  },
+  {
+    "type": "game_over",
+    "timestamp": 48.41056489944458,
+    "data": {
+      "final_difficulty": 3.80011617898941,
+      "total_words": 0,
+      "final_wpm": 0,
+      "final_accuracy": 100,
+      "play_time": 47.861486196517944,
+      "enemy_kills": 0,
+      "live_ml_accuracy": 1.0,
+      "ml_predictions_made": 2,
+      "ml_correct_predictions": 2
+    }
+  },
+  {
+    "type": "difficulty_update",
+    "timestamp": 50.57897090911865,
+    "data": {
+      "difficulty": 3.85014641046524,
+      "wpm": 0,
+      "accuracy": 100,
+      "time_played": 50.029282093048096,
+      "enemy_kills": 0
+    }
+  },
+  {
+    "type": "counter_failure",
+    "timestamp": 52.07079577445984,
+    "data": {
+      "word": "Evanesco",
+      "difficulty": 3.85014641046524,
+      "damage_taken": 25.77521961569786
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 62.0641028881073,
+    "data": {
+      "word": "love",
+      "typed": "",
+      "correct": false,
+      "time_taken": 9.289241790771484,
+      "wrong_letters": [],
+      "word_difficulty": 3,
+      "game_difficulty": 1
+    }
+  },
+  {
+    "type": "failed_hit",
+    "timestamp": 62.06485295295715,
+    "data": {
+      "damage_taken": 12.2,
+      "word_difficulty": 1,
+      "game_difficulty": 1,
+      "ml_prediction": 0.3526459601282814,
+      "ml_optimal_difficulty": 4
+    }
+  },
+  {
+    "type": "difficulty_update",
+    "timestamp": 62.78624701499939,
+    "data": {
+      "difficulty": 4.350055561065673,
+      "wpm": 0,
+      "accuracy": 100,
+      "time_played": 10.011112213134766,
+      "enemy_kills": 0
+    }
+  },
+  {
+    "type": "difficulty_update",
+    "timestamp": 72.79131984710693,
+    "data": {
+      "difficulty": 4.400079140663147,
+      "wpm": 0,
+      "accuracy": 100,
+      "time_played": 20.015828132629395,
+      "enemy_kills": 0
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 73.37370681762695,
+    "data": {
+      "word": "hi",
+      "typed": "",
+      "correct": false,
+      "time_taken": 11.30846619606018,
+      "wrong_letters": [],
+      "word_difficulty": 2,
+      "game_difficulty": 4.400079140663147
+    }
+  },
+  {
+    "type": "failed_hit",
+    "timestamp": 73.37446308135986,
+    "data": {
+      "damage_taken": 16.280094968795776,
+      "word_difficulty": 1,
+      "game_difficulty": 4.400079140663147,
+      "ml_prediction": 0.3208969684915195,
+      "ml_optimal_difficulty": 3
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 82.31016993522644,
+    "data": {
+      "word": "troll",
+      "typed": "",
+      "correct": false,
+      "time_taken": 8.935415744781494,
+      "wrong_letters": [],
+      "word_difficulty": 4,
+      "game_difficulty": 4.100079140663147
+    }
+  },
+  {
+    "type": "failed_hit",
+    "timestamp": 82.31095695495605,
+    "data": {
+      "damage_taken": 16.920094968795777,
+      "word_difficulty": 2,
+      "game_difficulty": 4.100079140663147,
+      "ml_prediction": 0.19948724324482348,
+      "ml_optimal_difficulty": 2
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 82.31106185913086,
+    "data": {
+      "word": "good",
+      "difficulty": 4.100079140663147,
+      "word_difficulty": 3,
+      "counter_time": 3.9649723007678985
+    }
+  },
+  {
+    "type": "difficulty_update",
+    "timestamp": 82.80047082901001,
+    "data": {
+      "difficulty": 3.050126551389694,
+      "wpm": 0,
+      "accuracy": 100,
+      "time_played": 30.025310277938843,
+      "enemy_kills": 0
+    }
+  },
+  {
+    "type": "counter_failure",
+    "timestamp": 86.80454301834106,
+    "data": {
+      "word": "good",
+      "difficulty": 3.050126551389694,
+      "damage_taken": 24.575189827084543
+    }
+  },
+  {
+    "type": "counter_failure",
+    "timestamp": 87.39822697639465,
+    "data": {
+      "word": "good",
+      "difficulty": 3.050126551389694,
+      "damage_taken": 24.575189827084543
+    }
+  },
+  {
+    "type": "counter_failure",
+    "timestamp": 88.0742518901825,
+    "data": {
+      "word": "good",
+      "difficulty": 3.050126551389694,
+      "damage_taken": 24.575189827084543
+    }
+  },
+  {
+    "type": "game_over",
+    "timestamp": 88.07429385185242,
+    "data": {
+      "final_difficulty": 3.050126551389694,
+      "total_words": 0,
+      "final_wpm": 0,
+      "final_accuracy": 100,
+      "play_time": 35.299665212631226,
+      "enemy_kills": 0,
+      "live_ml_accuracy": 1.0,
+      "ml_predictions_made": 3,
+      "ml_correct_predictions": 3
+    }
+  },
+  {
+    "type": "difficulty_update",
+    "timestamp": 92.80334401130676,
+    "data": {
+      "difficulty": 3.1001399755477905,
+      "wpm": 0,
+      "accuracy": 100,
+      "time_played": 40.027995109558105,
+      "enemy_kills": 0
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 98.95314478874207,
+    "data": {
+      "word": "poor",
+      "typed": "",
+      "correct": false,
+      "time_taken": 9.863217830657959,
+      "wrong_letters": [],
+      "word_difficulty": 3,
+      "game_difficulty": 3.1001399755477905
+    }
+  },
+  {
+    "type": "failed_hit",
+    "timestamp": 98.95422983169556,
+    "data": {
+      "damage_taken": 14.720167970657348,
+      "word_difficulty": 1,
+      "game_difficulty": 3.1001399755477905,
+      "ml_prediction": 0.3174825511660348,
+      "ml_optimal_difficulty": 3
+    }
+  },
+  {
+    "type": "difficulty_update",
+    "timestamp": 102.8192629814148,
+    "data": {
+      "difficulty": 3.8502206051349637,
+      "wpm": 0,
+      "accuracy": 100,
+      "time_played": 50.0441210269928,
+      "enemy_kills": 0
+    }
+  }
+]

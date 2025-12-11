@@ -1,0 +1,380 @@
+[
+  {
+    "type": "word_attempt",
+    "timestamp": 4.671560287475586,
+    "data": {
+      "word": "linux",
+      "typed": "linux",
+      "correct": true,
+      "time_taken": 4.253993988037109,
+      "word_difficulty": 4
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 6.171480178833008,
+    "data": {
+      "word": "troll",
+      "typed": "troll",
+      "correct": true,
+      "time_taken": 1.4995746612548828,
+      "word_difficulty": 4
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 8.473819255828857,
+    "data": {
+      "word": "trOll",
+      "typed": "trOll",
+      "correct": true,
+      "time_taken": 2.302042245864868,
+      "word_difficulty": 5
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 8.473888397216797,
+    "data": {
+      "word": "COMMUNICATION",
+      "difficulty": 5,
+      "counter_time": 4.0
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 18.974093198776245,
+    "data": {
+      "word": "graphics",
+      "typed": "graphics",
+      "correct": true,
+      "time_taken": 3.1858160495758057,
+      "word_difficulty": 4
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 21.451056241989136,
+    "data": {
+      "word": "vampire",
+      "typed": "vampire",
+      "correct": true,
+      "time_taken": 2.4766671657562256,
+      "word_difficulty": 5
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 27.595771312713623,
+    "data": {
+      "word": "revolutionary",
+      "typed": "revolitionary",
+      "correct": false,
+      "time_taken": 6.144402742385864,
+      "word_difficulty": 7
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 27.595847129821777,
+    "data": {
+      "word": "opPORtUnITY",
+      "difficulty": 5,
+      "counter_time": 4.0
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 51.22264122962952,
+    "data": {
+      "word": "accomplishment",
+      "typed": "",
+      "correct": false,
+      "time_taken": 9.999293804168701,
+      "word_difficulty": 7
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 57.29691433906555,
+    "data": {
+      "word": "muffliato",
+      "typed": "muffliato",
+      "correct": true,
+      "time_taken": 6.073985815048218,
+      "word_difficulty": 5
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 60.23322916030884,
+    "data": {
+      "word": "Langlock",
+      "typed": "Langlock",
+      "correct": true,
+      "time_taken": 2.936020851135254,
+      "word_difficulty": 5
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 60.233288288116455,
+    "data": {
+      "word": "opportunity",
+      "difficulty": 6,
+      "counter_time": 3.8
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 71.57989120483398,
+    "data": {
+      "word": "investigation",
+      "typed": "investigation",
+      "correct": true,
+      "time_taken": 6.775213241577148,
+      "word_difficulty": 7
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 76.0033609867096,
+    "data": {
+      "word": "firewall",
+      "typed": "Firewall",
+      "correct": false,
+      "time_taken": 4.423182249069214,
+      "word_difficulty": 5
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 78.42831325531006,
+    "data": {
+      "word": "blessed",
+      "typed": "blessed",
+      "correct": true,
+      "time_taken": 2.424668073654175,
+      "word_difficulty": 5
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 78.42839431762695,
+    "data": {
+      "word": "riddIkULuS",
+      "difficulty": 5,
+      "counter_time": 4.0
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 88.05678939819336,
+    "data": {
+      "word": "network",
+      "typed": "network",
+      "correct": true,
+      "time_taken": 2.1699540615081787,
+      "word_difficulty": 5
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 93.09548807144165,
+    "data": {
+      "word": "BLESSeD",
+      "typed": "BLESSeD",
+      "correct": true,
+      "time_taken": 5.038403272628784,
+      "word_difficulty": 5
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 95.48566913604736,
+    "data": {
+      "word": "quantum",
+      "typed": "quantum",
+      "correct": true,
+      "time_taken": 2.3898887634277344,
+      "word_difficulty": 5
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 95.48572635650635,
+    "data": {
+      "word": "ACCOMPLISHMENT",
+      "difficulty": 5,
+      "counter_time": 4.0
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 103.49228429794312,
+    "data": {
+      "word": "blessed",
+      "typed": "blessed",
+      "correct": true,
+      "time_taken": 2.838041067123413,
+      "word_difficulty": 5
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 105.2380862236023,
+    "data": {
+      "word": "network",
+      "typed": "network",
+      "correct": true,
+      "time_taken": 1.745521068572998,
+      "word_difficulty": 5
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 113.24095630645752,
+    "data": {
+      "word": "ChArACteriZatiON",
+      "typed": "ChArACteriZation",
+      "correct": false,
+      "time_taken": 8.00255799293518,
+      "word_difficulty": 5
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 113.2410261631012,
+    "data": {
+      "word": "mIsINTerPrEtAtIon",
+      "difficulty": 5,
+      "counter_time": 4.0
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 130.33287501335144,
+    "data": {
+      "word": "environmental",
+      "typed": "environmental",
+      "correct": true,
+      "time_taken": 3.3469979763031006,
+      "word_difficulty": 7
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 134.647607088089,
+    "data": {
+      "word": "MUFFLIATO",
+      "typed": "MUFFLIATO",
+      "correct": true,
+      "time_taken": 4.314517974853516,
+      "word_difficulty": 5
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 138.88263130187988,
+    "data": {
+      "word": "intelligence",
+      "typed": "intelligence",
+      "correct": true,
+      "time_taken": 4.234729051589966,
+      "word_difficulty": 6
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 138.88268423080444,
+    "data": {
+      "word": "accomplishment",
+      "difficulty": 7,
+      "counter_time": 3.6
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 149.6475691795349,
+    "data": {
+      "word": "vocabulary",
+      "typed": "vocabulary",
+      "correct": true,
+      "time_taken": 6.894851207733154,
+      "word_difficulty": 6
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 153.4047510623932,
+    "data": {
+      "word": "Expelliarmus",
+      "typed": "Expelliarmus",
+      "correct": true,
+      "time_taken": 3.7568838596343994,
+      "word_difficulty": 7
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 156.353755235672,
+    "data": {
+      "word": "network",
+      "typed": "network",
+      "correct": true,
+      "time_taken": 2.948734998703003,
+      "word_difficulty": 5
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 156.35382604599,
+    "data": {
+      "word": "adventure",
+      "difficulty": 6,
+      "counter_time": 3.8
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 163.6518120765686,
+    "data": {
+      "word": "network",
+      "typed": "network",
+      "correct": true,
+      "time_taken": 3.418139934539795,
+      "word_difficulty": 5
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 165.56962418556213,
+    "data": {
+      "word": "blessed",
+      "typed": "blessed",
+      "correct": true,
+      "time_taken": 1.917362928390503,
+      "word_difficulty": 5
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 172.8382852077484,
+    "data": {
+      "word": "Evanesco",
+      "typed": "Evenesco",
+      "correct": false,
+      "time_taken": 7.268373966217041,
+      "word_difficulty": 5
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 172.83835530281067,
+    "data": {
+      "word": "INVESTIGATION",
+      "difficulty": 5,
+      "counter_time": 4.0
+    }
+  }
+]

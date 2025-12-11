@@ -1,0 +1,86 @@
+[
+  {
+    "type": "word_attempt",
+    "timestamp": 15.43149995803833,
+    "data": {
+      "word": "goblin",
+      "typed": "",
+      "correct": false,
+      "time_taken": 14.954260110855103,
+      "word_difficulty": 3
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 25.44739294052124,
+    "data": {
+      "word": "unicode",
+      "typed": "",
+      "correct": false,
+      "time_taken": 10.015647172927856,
+      "word_difficulty": 4
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 35.44774293899536,
+    "data": {
+      "word": "kernel",
+      "typed": "",
+      "correct": false,
+      "time_taken": 10.000076055526733,
+      "word_difficulty": 4
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 35.44780111312866,
+    "data": {
+      "word": "quantum",
+      "difficulty": 5,
+      "counter_time": 4.0
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 50.44234585762024,
+    "data": {
+      "word": "dwarf",
+      "typed": "",
+      "correct": false,
+      "time_taken": 9.994667053222656,
+      "word_difficulty": 3
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 60.45280885696411,
+    "data": {
+      "word": "website",
+      "typed": "",
+      "correct": false,
+      "time_taken": 10.010154008865356,
+      "word_difficulty": 4
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 70.46744799613953,
+    "data": {
+      "word": "about",
+      "typed": "",
+      "correct": false,
+      "time_taken": 10.014337062835693,
+      "word_difficulty": 3
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 70.46752095222473,
+    "data": {
+      "word": "quantUM",
+      "difficulty": 5,
+      "counter_time": 4.0
+    }
+  }
+]

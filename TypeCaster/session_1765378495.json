@@ -1,0 +1,122 @@
+[
+  {
+    "type": "word_attempt",
+    "timestamp": 1.033799171447754,
+    "data": {
+      "word": "their",
+      "typed": "s",
+      "correct": false,
+      "time_taken": 0.5301470756530762,
+      "wrong_letters": [],
+      "word_difficulty": 2,
+      "game_difficulty": 1
+    }
+  },
+  {
+    "type": "failed_hit",
+    "timestamp": 1.0338709354400635,
+    "data": {
+      "damage_taken": 12.2,
+      "word_difficulty": 1,
+      "game_difficulty": 1,
+      "ml_prediction": 0.5,
+      "ml_optimal_difficulty": 5
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 1.2850520610809326,
+    "data": {
+      "word": "Crucio",
+      "typed": "s",
+      "correct": false,
+      "time_taken": 0.25084805488586426,
+      "wrong_letters": [],
+      "word_difficulty": 3,
+      "game_difficulty": 1
+    }
+  },
+  {
+    "type": "failed_hit",
+    "timestamp": 1.2850689888000488,
+    "data": {
+      "damage_taken": 12.2,
+      "word_difficulty": 1,
+      "game_difficulty": 1,
+      "ml_prediction": 0.5,
+      "ml_optimal_difficulty": 5
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 1.2851691246032715,
+    "data": {
+      "word": "want",
+      "difficulty": 1,
+      "word_difficulty": 2,
+      "counter_time": 5.0
+    }
+  },
+  {
+    "type": "counter_failure",
+    "timestamp": 1.4836781024932861,
+    "data": {
+      "word": "want",
+      "difficulty": 1,
+      "damage_taken": 21.5
+    }
+  },
+  {
+    "type": "counter_failure",
+    "timestamp": 1.6669831275939941,
+    "data": {
+      "word": "want",
+      "difficulty": 1,
+      "damage_taken": 21.5
+    }
+  },
+  {
+    "type": "counter_failure",
+    "timestamp": 1.8699440956115723,
+    "data": {
+      "word": "want",
+      "difficulty": 1,
+      "damage_taken": 21.5
+    }
+  },
+  {
+    "type": "counter_failure",
+    "timestamp": 2.7824959754943848,
+    "data": {
+      "word": "want",
+      "difficulty": 1,
+      "damage_taken": 21.5
+    }
+  },
+  {
+    "type": "game_over",
+    "timestamp": 2.7825279235839844,
+    "data": {
+      "final_difficulty": 1,
+      "total_words": 0,
+      "final_wpm": 0,
+      "final_accuracy": 0,
+      "play_time": 2.2791380882263184,
+      "enemy_kills": 0,
+      "live_ml_accuracy": 0,
+      "ml_predictions_made": 0,
+      "ml_correct_predictions": 0
+    }
+  },
+  {
+    "type": "difficulty_update",
+    "timestamp": 10.520913124084473,
+    "data": {
+      "difficulty": 1.166958252588908,
+      "wpm": 0,
+      "accuracy": 0,
+      "time_played": 10.017495155334473,
+      "enemy_kills": 0
+    }
+  }
+]

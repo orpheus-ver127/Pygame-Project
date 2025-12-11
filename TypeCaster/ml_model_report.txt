@@ -1,0 +1,33 @@
+============================================================
+MACHINE LEARNING MODEL REPORT
+============================================================
+
+Algorithm: Logistic Regression
+Training Samples: 548
+Test Samples: 138
+
+PERFORMANCE METRICS:
+----------------------------------------
+Accuracy: 76.8%
+Precision: 77.8%
+Recall: 91.3%
+F1-Score: 84.0%
+Baseline Accuracy: 66.7%
+Improvement: 10.1%
+
+CONFUSION MATRIX:
+----------------------------------------
+           Predicted
+           Correct  Wrong
+Actual Correct   84       8
+       Wrong      24      22
+
+FEATURE IMPORTANCE:
+----------------------------------------
+rolling_accuracy    : +2.084
+prev_correct        : +0.706
+current_difficulty  : +0.073
+prev_time           : -0.059
+current_length      : -0.050
+prev_difficulty     : -0.007
+avg_wpm             : +0.000

@@ -1,0 +1,76 @@
+[
+  {
+    "type": "difficulty_update",
+    "timestamp": 10.42215085029602,
+    "data": {
+      "difficulty": 5.166736602783203,
+      "wpm": 0,
+      "accuracy": 100,
+      "time_played": 10.004196166992188,
+      "enemy_kills": 0
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 11.711495876312256,
+    "data": {
+      "word": "kind",
+      "typed": "",
+      "correct": false,
+      "time_taken": 11.29329800605774,
+      "word_difficulty": 3,
+      "game_difficulty": 5.166736602783203
+    }
+  },
+  {
+    "type": "failed_hit",
+    "timestamp": 11.711513757705688,
+    "data": {
+      "damage_taken": 17.200083923339843,
+      "word_difficulty": 1,
+      "game_difficulty": 5.166736602783203
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 20.10480284690857,
+    "data": {
+      "word": "firewall",
+      "typed": "",
+      "correct": false,
+      "time_taken": 8.392980098724365,
+      "word_difficulty": 5,
+      "game_difficulty": 5.166736602783203
+    }
+  },
+  {
+    "type": "failed_hit",
+    "timestamp": 20.104820013046265,
+    "data": {
+      "damage_taken": 18.200083923339843,
+      "word_difficulty": 2,
+      "game_difficulty": 5.166736602783203
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 20.104899883270264,
+    "data": {
+      "word": "quattuordecillion",
+      "difficulty": 5.166736602783203,
+      "word_difficulty": 8,
+      "counter_time": 2.591642189025879
+    }
+  },
+  {
+    "type": "difficulty_update",
+    "timestamp": 20.430264711380005,
+    "data": {
+      "difficulty": 5.333538166681925,
+      "wpm": 0,
+      "accuracy": 100,
+      "time_played": 20.012290000915527,
+      "enemy_kills": 0
+    }
+  }
+]

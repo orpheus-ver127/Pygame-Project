@@ -1,0 +1,180 @@
+[
+  {
+    "type": "word_attempt",
+    "timestamp": 9.457138776779175,
+    "data": {
+      "word": "back",
+      "typed": "back",
+      "correct": true,
+      "time_taken": 8.86886978149414,
+      "word_difficulty": 3,
+      "game_difficulty": 1
+    }
+  },
+  {
+    "type": "successful_hit",
+    "timestamp": 9.457154750823975,
+    "data": {
+      "damage": 19.5,
+      "word_difficulty": 3,
+      "game_difficulty": 1
+    }
+  },
+  {
+    "type": "difficulty_update",
+    "timestamp": 10.599771738052368,
+    "data": {
+      "difficulty": 5.326860214869181,
+      "wpm": 4,
+      "accuracy": 100,
+      "time_played": 10.011612892150879,
+      "enemy_kills": 0
+    }
+  },
+  {
+    "type": "difficulty_update",
+    "timestamp": 20.605122804641724,
+    "data": {
+      "difficulty": 5.413616268634796,
+      "wpm": 2,
+      "accuracy": 100,
+      "time_played": 20.01697611808777,
+      "enemy_kills": 0
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 20.741377592086792,
+    "data": {
+      "word": "dog",
+      "typed": "",
+      "correct": false,
+      "time_taken": 11.283679008483887,
+      "word_difficulty": 1,
+      "game_difficulty": 5.413616268634796
+    }
+  },
+  {
+    "type": "failed_hit",
+    "timestamp": 20.741450786590576,
+    "data": {
+      "damage_taken": 16.496339522361755,
+      "word_difficulty": 0,
+      "game_difficulty": 5.413616268634796
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 20.741700649261475,
+    "data": {
+      "word": "Expelliarmus",
+      "difficulty": 5.413616268634796,
+      "word_difficulty": 7,
+      "counter_time": 2.705234305977821
+    }
+  },
+  {
+    "type": "counter_failure",
+    "timestamp": 23.43397283554077,
+    "data": {
+      "word": "Expelliarmus",
+      "difficulty": 5.413616268634796,
+      "damage_taken": 28.120424402952196
+    }
+  },
+  {
+    "type": "difficulty_update",
+    "timestamp": 30.60931086540222,
+    "data": {
+      "difficulty": 5.540352831681569,
+      "wpm": 1,
+      "accuracy": 100,
+      "time_played": 30.021169900894165,
+      "enemy_kills": 0
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 32.64697861671448,
+    "data": {
+      "word": "extraordinary",
+      "typed": "",
+      "correct": false,
+      "time_taken": 8.200119972229004,
+      "word_difficulty": 7,
+      "game_difficulty": 5.540352831681569
+    }
+  },
+  {
+    "type": "failed_hit",
+    "timestamp": 32.64699578285217,
+    "data": {
+      "damage_taken": 19.648423398017883,
+      "word_difficulty": 3,
+      "game_difficulty": 5.540352831681569
+    }
+  },
+  {
+    "type": "difficulty_update",
+    "timestamp": 40.61939287185669,
+    "data": {
+      "difficulty": 5.707187515894572,
+      "wpm": 1,
+      "accuracy": 100,
+      "time_played": 40.031250953674316,
+      "enemy_kills": 0
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 40.77240586280823,
+    "data": {
+      "word": "wAddiWasI",
+      "typed": "",
+      "correct": false,
+      "time_taken": 8.125131845474243,
+      "word_difficulty": 5,
+      "game_difficulty": 5.707187515894572
+    }
+  },
+  {
+    "type": "failed_hit",
+    "timestamp": 40.772419691085815,
+    "data": {
+      "damage_taken": 18.848625019073488,
+      "word_difficulty": 2,
+      "game_difficulty": 5.707187515894572
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 40.77252769470215,
+    "data": {
+      "word": "nETwoRK",
+      "difficulty": 5.707187515894572,
+      "word_difficulty": 5,
+      "counter_time": 3.0024843694369
+    }
+  },
+  {
+    "type": "counter_failure",
+    "timestamp": 43.758540630340576,
+    "data": {
+      "word": "nETwoRK",
+      "difficulty": 5.707187515894572,
+      "damage_taken": 28.560781273841858
+    }
+  },
+  {
+    "type": "game_over",
+    "timestamp": 43.75859475135803,
+    "data": {
+      "final_difficulty": 5.707187515894572,
+      "total_words": 1,
+      "final_wpm": 1,
+      "final_accuracy": 100,
+      "play_time": 43.17047691345215,
+      "enemy_kills": 0
+    }
+  }
+]

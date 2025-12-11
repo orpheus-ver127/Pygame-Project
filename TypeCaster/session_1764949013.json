@@ -1,0 +1,185 @@
+[
+  {
+    "type": "word_attempt",
+    "timestamp": 11.02741289138794,
+    "data": {
+      "word": "INCENDIO",
+      "typed": "INCENDIO",
+      "correct": true,
+      "time_taken": 10.603257894515991,
+      "wrong_letters": [],
+      "word_difficulty": 4
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 16.81556510925293,
+    "data": {
+      "word": "REPELLO INIMICUM",
+      "typed": "REPELLO INIMICUM",
+      "correct": true,
+      "time_taken": 5.788028955459595,
+      "wrong_letters": [],
+      "word_difficulty": 6
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 19.11339497566223,
+    "data": {
+      "word": "GEMINIO",
+      "typed": "GEMINIO",
+      "correct": true,
+      "time_taken": 2.2977101802825928,
+      "wrong_letters": [],
+      "word_difficulty": 4
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 19.11344575881958,
+    "data": {
+      "word": "IMPERVIUS",
+      "difficulty": 6
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 25.500236988067627,
+    "data": {
+      "word": "EPISKEY",
+      "typed": "EPISKEY",
+      "correct": true,
+      "time_taken": 2.6417977809906006,
+      "wrong_letters": [],
+      "word_difficulty": 5
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 27.347604990005493,
+    "data": {
+      "word": "CONFUNDO",
+      "typed": "CONFUNDO",
+      "correct": true,
+      "time_taken": 1.8472650051116943,
+      "wrong_letters": [],
+      "word_difficulty": 4
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 31.888157844543457,
+    "data": {
+      "word": "PRIORI INCANTATEM",
+      "typed": "PRIORI INCANTATEM",
+      "correct": true,
+      "time_taken": 4.540454149246216,
+      "wrong_letters": [],
+      "word_difficulty": 5
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 31.88819408416748,
+    "data": {
+      "word": "OBLIVIATE",
+      "difficulty": 6
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 38.87791204452515,
+    "data": {
+      "word": "OBLIVIATE",
+      "typed": "OBLIVIATE",
+      "correct": true,
+      "time_taken": 3.5863380432128906,
+      "wrong_letters": [],
+      "word_difficulty": 6
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 42.05529999732971,
+    "data": {
+      "word": "GLISSEO",
+      "typed": "CLISSED",
+      "correct": false,
+      "time_taken": 3.177237033843994,
+      "wrong_letters": [
+        "G",
+        "O"
+      ],
+      "word_difficulty": 5
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 43.80028581619263,
+    "data": {
+      "word": "EPISKEY",
+      "typed": "EPISKEY",
+      "correct": true,
+      "time_taken": 1.7448928356170654,
+      "wrong_letters": [],
+      "word_difficulty": 5
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 43.80031490325928,
+    "data": {
+      "word": "AGUAMENTI",
+      "difficulty": 5
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 58.42841911315918,
+    "data": {
+      "word": "PROTEGO HORRIBILIS",
+      "typed": "PROTECO HORRIBILIS",
+      "correct": false,
+      "time_taken": 10.764357805252075,
+      "wrong_letters": [
+        "G"
+      ],
+      "word_difficulty": 6
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 64.54956007003784,
+    "data": {
+      "word": "TARANTALLEGRA",
+      "typed": "TARANTALLECRA",
+      "correct": false,
+      "time_taken": 6.1210479736328125,
+      "wrong_letters": [
+        "G"
+      ],
+      "word_difficulty": 6
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 70.2471809387207,
+    "data": {
+      "word": "MUFFLIATO",
+      "typed": "MUFFLIATO",
+      "correct": true,
+      "time_taken": 5.6975297927856445,
+      "wrong_letters": [],
+      "word_difficulty": 6
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 70.24722099304199,
+    "data": {
+      "word": "REDUCIO",
+      "difficulty": 4
+    }
+  }
+]

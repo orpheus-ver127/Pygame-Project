@@ -1,0 +1,136 @@
+[
+  {
+    "type": "word_attempt",
+    "timestamp": 4.252253293991089,
+    "data": {
+      "word": "Bombarda",
+      "typed": "Bombarda",
+      "correct": true,
+      "time_taken": 3.8428449630737305,
+      "word_difficulty": 4
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 11.55476713180542,
+    "data": {
+      "word": "institutionalization",
+      "typed": "Institutionalization",
+      "correct": false,
+      "time_taken": 7.3021838665008545,
+      "word_difficulty": 6
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 15.016318321228027,
+    "data": {
+      "word": "Evanesco",
+      "typed": "Evanesco",
+      "correct": true,
+      "time_taken": 3.461282730102539,
+      "word_difficulty": 5
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 15.01640009880066,
+    "data": {
+      "word": "piertotum locomotor",
+      "difficulty": 5
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 24.98424005508423,
+    "data": {
+      "word": "uncomfortable",
+      "typed": "Uncomfortable",
+      "correct": false,
+      "time_taken": 5.9511940479278564,
+      "word_difficulty": 5
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 32.56629824638367,
+    "data": {
+      "word": "unchallengeableness",
+      "typed": "unchallengeableness",
+      "correct": true,
+      "time_taken": 7.581744909286499,
+      "word_difficulty": 6
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 36.13649106025696,
+    "data": {
+      "word": "international",
+      "typed": "international",
+      "correct": true,
+      "time_taken": 3.569777250289917,
+      "word_difficulty": 5
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 36.13654112815857,
+    "data": {
+      "word": "Aparecium",
+      "difficulty": 5
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 44.64185810089111,
+    "data": {
+      "word": "nevertheless",
+      "typed": "nevertheless",
+      "correct": true,
+      "time_taken": 4.2207722663879395,
+      "word_difficulty": 7
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 47.981717109680176,
+    "data": {
+      "word": "Muffliato",
+      "typed": "Muffliato",
+      "correct": true,
+      "time_taken": 3.339547872543335,
+      "word_difficulty": 6
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 54.24207925796509,
+    "data": {
+      "word": "quattuordecillion",
+      "typed": "quattuodecillion",
+      "correct": false,
+      "time_taken": 6.260025262832642,
+      "word_difficulty": 7
+    }
+  },
+  {
+    "type": "enemy_attack",
+    "timestamp": 54.24212908744812,
+    "data": {
+      "word": "network",
+      "difficulty": 5
+    }
+  },
+  {
+    "type": "word_attempt",
+    "timestamp": 67.21397399902344,
+    "data": {
+      "word": "unconscientiousness",
+      "typed": "unconscienctiosness",
+      "correct": false,
+      "time_taken": 10.037702083587646,
+      "word_difficulty": 6
+    }
+  }
+]
